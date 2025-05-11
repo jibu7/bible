@@ -1,0 +1,117 @@
+Bible App - Phase 13: Testing and Optimization Inspections
+
+This document provides a checklist of inspections for Phase 13 of the Bible App development. Each item must be verified to ensure the app meets functional and non-functional requirements, including performance, offline functionality, and user experience.
+
+---
+
+### 1. Unit Testing Inspections
+- [ ] **Repositories**
+  - [ ] `getBooks()` returns all Bible books correctly.
+  - [ ] `getChapters(bookId)` retrieves chapters for a specific book.
+  - [ ] `getVerses(chapterId)` fetches verses for a given chapter.
+  - [ ] `searchVerses(query)` accurately handles:
+    - [ ] Verse reference searches (e.g., "John 3:16").
+    - [ ] Keyword searches within verse text.
+    - [ ] Book name searches (e.g., "Genesis").
+  - [ ] CRUD operations for bookmarks and highlights work correctly:
+    - [ ] Create: Add a bookmark/highlight.
+    - [ ] Read: Retrieve saved bookmarks/highlights.
+    - [ ] Update: Modify an existing bookmark/highlight.
+    - [ ] Delete: Remove a bookmark/highlight.
+
+- [ ] **ViewModels**
+  - [ ] Data retrieval from repositories is accurate.
+  - [ ] Business logic or data transformations (e.g., verse formatting) are correct.
+  - [ ] LiveData or StateFlow emissions update UI correctly with data changes.
+
+---
+
+### 2. Instrumented Testing Inspections
+- [ ] **UI Testing**
+  - [ ] Navigation works from Testament list → Book list → Chapter list → Verse view.
+  - [ ] Verse content displays with proper formatting and section headings.
+  - [ ] Language selection in settings updates verse text to the selected translation.
+  - [ ] Dark/light mode (if implemented) applies correctly to all UI elements.
+
+- [ ] **Workflow Testing**
+  - [ ] Searching for a verse (e.g., "John 3:16") navigates to the correct verse display.
+  - [ ] Bookmarking a verse adds it to the bookmarks list.
+  - [ ] Highlighting a verse visually indicates the highlight and persists it.
+  - [ ] Exporting bookmarks/highlights to a file and importing them restores data accurately.
+
+---
+
+### 3. Offline Functionality Inspections
+- [ ] All features (navigation, search, bookmarks, highlights) function without an internet connection.
+- [ ] Bible data (books, chapters, verses, headings) loads from the local Room database.
+- [ ] User data (bookmarks, highlights) is stored and retrieved locally.
+- [ ] Initial database setup from the preloaded asset completes successfully on app launch.
+
+---
+
+### 4. Performance Testing Inspections
+- [ ] Key queries (e.g., search operations) execute within acceptable time limits (e.g., <1 second for typical searches).
+- [ ] Database indexes are in place for verse text and book names to optimize queries.
+- [ ] App remains responsive when loading large chapters or performing full-text searches.
+- [ ] No memory leaks or performance bottlenecks identified via profiling.
+
+---
+
+### 5. UI/UX Evaluation Inspections
+- [ ] Usability testing with sample users confirms intuitive navigation and feature accessibility.
+- [ ] UI adheres to design specifications (e.g., hierarchical navigation, clear verse display).
+- [ ] Optional dark/light mode (if implemented) enhances readability and user comfort.
+
+---
+
+### 6. Architecture Review Inspections
+- [ ] Codebase follows MVVM principles with clear separation of concerns.
+- [ ] Dependency injection with Hilt is correctly implemented across components.
+- [ ] Jetpack Navigation setup prevents backstack issues or navigation loops.
+
+---
+
+### 7. Backup Testing Inspections
+- [ ] Exporting bookmarks/highlights to a file (e.g., JSON) works with varying data sizes.
+- [ ] Importing from an exported file restores data accurately.
+- [ ] Cross-device transfer (export on one device, import on another) maintains data integrity.
+
+---
+
+### Additional Inspections
+- [ ] **Edge Cases and Error Handling**
+  - [ ] Invalid inputs (e.g., "John 99:99") handled gracefully in search.
+  - [ ] Large datasets (e.g., 100+ bookmarks) do not cause performance issues.
+  - [ ] Corrupted import files are handled without crashing the app.
+
+- [ ] **Compatibility**
+  - [ ] App functions correctly on different screen sizes, orientations, and Android versions (API 21+).
+
+- [ ] **Localization**
+  - [ ] Bible content and search work in multiple languages (e.g., English, Spanish, Arabic).
+  - [ ] Right-to-left scripts display correctly.
+
+- [ ] **Optimization Post-Testing**
+  - [ ] Database queries optimized (e.g., using SQLite FTS for search if needed).
+  - [ ] UI rendering optimized (e.g., lazy loading for long lists).
+
+---
+
+### Final Verification
+- [ ] All unit and instrumented tests pass successfully.
+- [ ] Performance benchmarks are met.
+- [ ] UI/UX feedback is positive and issues are addressed.
+- [ ] Architecture and code quality standards are maintained.
+- [ ] Backup and restore functionality is reliable.
+
+---
+
+### Notes
+- Use JUnit and Mockito for unit tests.
+- Use Jetpack Compose Testing APIs or Espresso for instrumented tests.
+- Use Android Studio’s Profiler for performance analysis.
+- Consider CI/CD for automated testing (optional for initial development).
+
+---
+
+This checklist ensures that Phase 13 is completed thoroughly, meeting all specified requirements for the Bible App. Each inspection item should be checked off as tasks are verified.

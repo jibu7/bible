@@ -1,0 +1,145 @@
+package com.example.bibleapp.data
+
+import androidx.room.Entity
+import androidx.room.ForeignKey
+import androidx.room.Index
+import androidx.room.PrimaryKey
+
+@Entity(tableName = "bible_staging")
+data class BibleStaging(
+    @PrimaryKey(autoGenerate = true)
+    val id: Int = 0,
+    val testament: String?,
+    val book: String?,
+    val chapter: Int?,
+    val heading: String?,
+    val metadata: String?,
+    val verse: Int?,
+    val text: String?
+)
+
+@Entity(
+    tableName = "books",
+    indices = [Index(value = ["name"], unique = true)]
+)
+data class Book(
+    @PrimaryKey(autoGenerate = true)
+    val bookId: Int = 0,
+    val name: String,
+    val testament: String,
+    val bookOrder: Int
+)
+
+@Entity(
+    tableName = "chapters",
+    foreignKeys = [
+        ForeignKey(
+            entity = Book::class,
+            parentColumns = ["bookId"],
+            childColumns = ["bookId"],
+            onDelete = ForeignKey.CASCADE
+        )
+    ],
+    indices = [
+        Index(value = ["bookId"]),
+        Index(value = ["bookId", "chapterNumber"], unique = true)
+    ]
+)
+data class Chapter(
+    @PrimaryKey(autoGenerate = true)
+    val chapterId: Int = 0,
+    val bookId: Int,
+    val chapterNumber: Int
+)
+
+@Entity(
+    tableName = "headings",
+    foreignKeys = [
+        ForeignKey(
+            entity = Chapter::class,
+            parentColumns = ["chapterId"],
+            childColumns = ["chapterId"],
+            onDelete = ForeignKey.CASCADE
+        )
+    ],
+    indices = [
+        Index(value = ["chapterId", "headingOrder"], unique = true)
+    ]
+)
+data class Heading(
+    @PrimaryKey(autoGenerate = true)
+    val headingId: Int = 0,
+    val chapterId: Int,
+    val headingOrder: Int,
+    val headingText: String
+)
+
+@Entity(
+    tableName = "languages",
+    indices = [Index(value = ["languageCode"], unique = true)]
+)
+data class Language(
+    @PrimaryKey(autoGenerate = true)
+    val languageId: Int = 0,
+    val languageCode: String,
+    val languageName: String
+)
+
+@Entity(
+    tableName = "translations",
+    foreignKeys = [
+        ForeignKey(
+            entity = Verse::class,
+            parentColumns = ["verseId"],
+            childColumns = ["verseId"],
+            onDelete = ForeignKey.CASCADE
+        ),
+        ForeignKey(
+            entity = Language::class,
+            parentColumns = ["languageId"],
+            childColumns = ["languageId"],
+            onDelete = ForeignKey.RESTRICT
+        ),
+        ForeignKey(
+            entity = Language::class,
+            parentColumns = ["languageCode"],
+            childColumns = ["languageCode"],
+            onDelete = ForeignKey.NO_ACTION
+        )
+    ],
+    indices = [
+        Index(value = ["verseId"]),
+        Index(value = ["languageId"]),
+        Index(value = ["verseId", "languageId"], unique = true)
+    ]
+)
+data class Translation(
+    @PrimaryKey(autoGenerate = true)
+    val translationId: Int = 0,
+    val verseId: Int,
+    val languageId: Int,
+    val languageCode: String,
+    val verseText: String
+)
+
+@Entity(
+    tableName = "verses",
+    foreignKeys = [
+        ForeignKey(
+            entity = Chapter::class,
+            parentColumns = ["chapterId"],
+            childColumns = ["chapterId"],
+            onDelete = ForeignKey.CASCADE
+        )
+    ],
+    indices = [
+        Index(value = ["chapterId"]),
+        Index(value = ["chapterId", "verseNumber"], unique = true)
+    ]
+)
+data class Verse(
+    @PrimaryKey(autoGenerate = true)
+    val verseId: Int = 0,
+    val chapterId: Int,
+    val verseNumber: Int
+)

@@ -1,0 +1,1823 @@
+headingId,chapterId,headingOrder,headingText
+1,1,1,Imana irema isi n'ijuru n'ibirimo byose
+2,2,1,Imana yeza umunsi wa karindwi
+3,2,2,Imana ishyira Adamu muri Edeni
+4,2,3,Imana irema Eva
+5,3,1,Inzoka yoshya Eva
+6,3,2,Imana ihana inzoka na Adamu na Eva
+7,3,3,Imana ikūra Adamu muri Edeni
+8,4,1,Ibyerekeye Kayini na Abeli
+9,4,2,Urubyaro rwa Kayini
+10,4,3,Urubyaro rwa Seti
+11,5,1,Urubyaro rwa Adamu
+12,6,1,Abantu bahinduka babi cyane
+13,6,2,Imana itegeka Nowa kubāza inkuge
+14,7,1,"Nowa yinjira mu nkuge, umwuzūre urimbura abantu"
+15,8,1,"Umwuzure urakama, Nowa asohoka mu nkuge"
+16,9,1,Imana isezeranira Nowa isezerano
+17,10,1,Urubyaro rwa bene Nowa
+18,11,1,Imana inyuranya indimi z'abantu
+19,11,2,Urubyaro rwa Shemu
+20,11,3,Kuvuka kwa Aburamu
+21,12,1,Uwiteka yohereza Aburamu i Kanāni
+22,12,2,Aburamu na Sarayi bajya muri Egiputa
+23,13,1,Aburamu na Loti baratandukana
+24,14,1,"Loti afatwa mpiri, Aburamu aramurengera"
+25,15,1,Aburamu yizera Uwiteka; Uwiteka amusezeranya isezerano
+26,16,1,"Aburamu acyura Hagari; na we asuzugura Sarayi, maze Sarayi aramwirukana"
+27,17,1,Imana ihindura amazina ya Aburamu na Sarayi
+28,17,2,Imana ishyiraho gukebwa ho ikimenyetso cy'isezerano ryayo
+29,17,3,Imana isezeranya yuko Sara azabyara umuhungu
+30,18,1,Imana yongera gusezeranya yuko Sara azabyara umuhungu
+31,18,2,Imana ibwira Aburahamu ko igiye kurimbura i Sodomu
+32,18,3,Aburahamu asabira i Sodomu
+33,19,1,Abamarayika bagera i Sodomu; ab'aho babagirira nabi
+34,19,2,"Abamarayika bakura Loti i Sodomu, Imana iraharimbura"
+35,19,3,Inkomoko y'Abamowabu n'Abamoni
+36,20,1,"Umwami w'i Gerari acyura Sara, Imana imutegeka kumusubiza Aburahamu"
+37,21,1,Sara abyara Isaka
+38,21,2,Sara asendesha Hagari na Ishimayeli
+39,21,3,Aburahamu na Abimeleki barasezerana
+40,22,1,"Imana igerageza Aburahamu, imutegeka kuyitambira Isaka"
+41,22,2,"Aburahamu agiye gutamba Isaka, Imana iramubuza"
+42,22,3,Imana iha Aburahamu umugisha ukomeye
+43,23,1,Sara arapfa; Aburahamu agura ubuvumo bwo kumuhambamo
+44,24,1,Aburahamu atuma igisonga cye gusabira Isaka umugeni
+45,25,1,Urubyaro rwa Ketura
+46,25,2,Urupfu rwa Aburahamu
+47,25,3,Urubyaro rwa Ishimayeli
+48,25,4,Kuvuka kwa Esawu na Yakobo
+49,25,5,Esawu aguza Yakobo ubutware bwe
+50,26,1,Isaka azerera mu gihugu cy'Abafilisitiya
+51,27,1,Rebeka yoshya Yakobo kuriganya se
+52,27,2,Yakobo ahabwa umugisha na se
+53,27,3,Esawu asabana amarira umugisha
+54,27,4,Esawu ashaka kwica Yakobo
+55,28,1,Isaka yohereza Yakobo i Padanaramu gusabayo umugeni
+56,28,2,Imana ibonekera Yakobo mu nzozi
+57,29,1,"Yakobo ajya kwa Labani, atendera Rasheli imyaka irindwi"
+58,29,2,Labani arabanza amushyingira Leya
+59,29,3,Yakobo atendera Rasheli indi myaka irindwi
+60,30,1,Abaja babyarana na Yakobo
+61,30,2,Rasheli abyara Yosefu
+62,30,3,Yakobo ashaka gusubirayo
+63,31,1,Yakobo ahungana n'abagore be n'abana
+64,31,2,Labani akurikira Yakobo amurakariye
+65,31,3,Yakobo na Labani basezerana; Labani asubira iwabo
+66,32,1,Abamarayika b'Imana babonekera Yakobo
+67,32,2,Intumwa za Yakobo zimubwira yuko Esawu aza
+68,32,3,Yakobo akirana na Marayika w'Imana
+69,33,1,Yakobo yuzura na Esawu; agura ubutaka i Shekemu
+70,34,1,"Shekemu akinda Dina, umukobwa wa Yakobo"
+71,34,2,Basaza ba Dina bicisha Shekemu n'abe uburiganya
+72,35,1,"Rasheli apfa, amaze kubyara Benyamini"
+73,35,2,Bene Yakobo
+74,36,1,Abuzukuruza ba Esawu
+75,36,2,Urubyaro rwa Seyiri
+76,36,3,Abami ba Edomu
+77,37,1,"Yosefu atoneshwa na se, bene se bamugirira ishyari"
+78,37,2,Bene se ba Yosefu bamugurisha
+79,38,1,"Yuda abyara Perēsi kuri Tamari, umukazana we"
+80,39,1,"Nyirabuja wa Yosefu amwoshya gusambana na we, aranga"
+81,39,2,Nyirabuja arega Yosefu; bamushyira mu nzu y'imbohe
+82,40,1,Yosefu asobanura inzozi z'abatware ba Farawo
+83,41,1,Yosefu asobanura inzozi za Farawo
+84,41,2,Farawo yegurira Yosefu igihugu cya Egiputa
+85,41,3,Yosefu ahunika imyaka myinshi
+86,42,1,Bene se wa Yosefu baza muri Egiputa guhaha
+87,42,2,Yakobo yanga kohereza Benyamini
+88,43,1,Bene Yakobo basubira muri Egiputa guhaha
+89,43,2,Bajyana na Benyamini; basanga Yosefu mu rugo
+90,44,1,Igikombe cya Yosefu kibonwa mu isaho ya Benyamini
+91,44,2,Yuda yemera kwitanga ho incungu ya Benyamini
+92,45,1,Yosefu yirondorera bene se
+93,45,2,Farawo na Yosefu batumira Yakobo
+94,46,1,Yakobo ajya muri Egiputa
+95,46,2,Amazina y'urubyaro rwa Yakobo
+96,46,3,Yakobo na Yosefu babonana
+97,47,1,Yosefu ashyīra Farawo se Yakobo
+98,47,2,Yosefu agura ibyo Abanyegiputa bafite byose
+99,47,3,Yakobo arahiza Yosefu yuko azamuhamba i Kanāni
+100,48,1,"Yakobo agiye gupfa, Yosefu amuzanira abahungu be bombi"
+101,48,2,Yakobo asabira Efurayimu na Manase umugisha
+102,49,1,Yakobo ahanurira abana be ibizababaho
+103,49,2,Yakobo ategeka abana be aho bakwiriye kuzamuhamba
+104,50,1,"Yakobo arapfa baramwosa, bamujyana i Kanāni bamuhambayo"
+105,50,2,"Yosefu ahumuriza bene se, arapfa"
+106,51,1,Abisirayeli bagwirira muri Egiputa
+107,51,2,"Umwami wa Egiputa atinya Abisirayeli, abagira imbata"
+108,51,3,Ababyaza bategekwa guhotora abahungu bavuka
+109,52,1,"Mose aravuka, umukobwa wa Farawo aramurera"
+110,52,2,"Mose yica Umunyegiputa, arahunga ajya i Midiyani"
+111,52,3,"Abisirayeli batakira Imana, irabumva"
+112,53,1,Imana ibonekerera Mose mu gihuru cyaka umuriro
+113,53,2,Imana ituma Mose kubwira Farawo ngo areke Abisirayeli
+114,53,3,Imana ibwira Mose izina ryayo
+115,54,1,"Imana yigisha Mose gukora ibitangaza, ihindura inkoni inzoka"
+116,54,2,"Mose ajya muri Egiputa, akeba umwana we"
+117,55,1,"Farawo agwiza uburetwa bw'Abisirayeli bagaya Mose na Aroni, Mose atakira Uwiteka"
+118,56,1,"Imana yongera kubwira Mose izina ryayo, ikamutuma"
+119,57,1,Mose na Aroni bakorera imbere ya Farawo cya kimenyetso cy'inkoni
+120,57,2,Icyago cya mbere: amazi ahinduka amaraso
+121,57,3,"Kandi mu gihugu cya Egiputa hose hari bube amaraso, mu mivure y'ibiti no mu bibindi by'amabuye."""
+122,57,4,Icyago cya kabiri: igihugu cyuzura ibikeri
+123,58,1,Icyago cya gatatu: hatera inda
+124,58,2,Icyago cya kane: hatera ibibugu
+125,59,1,Icyago cya gatanu: hatera muryamo
+126,59,2,Icyago cya gatandatu: hatera ibisebe
+127,59,3,Icyago cya karindwi: hatera urubura
+128,60,1,Icyago cya munani: hatera inzige
+129,60,2,Icyago cya cyenda: hacura umwijima
+130,61,1,Mose aburira Farawo ibyo kwicwa kw'abana b'imfura
+131,62,1,Uwiteka abwiriza Mose ibya Pasika
+132,62,2,Mose ategeka Abisirayeli ibya Pasika
+133,62,3,Icyago cya cumi: abana b'imfura bicwa
+134,62,4,Abisirayeli bagenda
+135,62,5,Andi mategeko ya Pasika
+136,63,1,Mose abibutsa uko bavuye muri Egiputa
+137,63,2,Amategeko yo kwereza Uwiteka imfura zose n'uburiza bwose
+138,64,1,"Abisirayeli bambuka Inyanja Itukura nko ku butaka, Abanyegiputa bagerageje kubakurikira bararengerwa"
+139,65,1,Indirimbo ya Mose
+140,65,2,Imana ikiza amazi y'i Mara kurura
+141,66,1,Uwiteka aha Abisirayeli manu
+142,67,1,"Babura amazi, Mose akubita igitare kivamo amazi"
+143,67,2,"Abamaleki barwanya Abisirayeli, Mose arabasabira baranesha"
+144,68,1,Yetiro sebukwe wa Mose amusanga mu butayu
+145,68,2,Yetiro agira Mose inama yo gutoranya abacamanza bo kumufasha
+146,69,1,Imana yiyerekera Abisirayeli ku musozi wa Sinayi
+147,70,1,Imana ibwira Abisirayeli amategeko cumi
+148,71,1,Andi mategeko y'Imana
+149,73,1,Andi mategeko y'Imana
+150,74,1,Isezerano ry'Uwiteka n'Abisirayeli rirakomezwa
+151,74,2,Uwiteka ahamagara Mose ngo yongere kuzamuka umusozi wa Sinayi
+152,75,1,Ibyo kurema Ihema ry'Imana
+153,76,1,Ibintu by'Ihema ry'Imana
+154,77,1,Ibindi bintu by'Ihema ry'Imana
+155,78,1,Imyambaro y'abatambyi
+156,79,1,Amategeko yo kweza abatambyi
+157,79,2,Ibitambo by'iminsi yose
+158,80,1,Andi mategeko y'Ihema ry'Imana
+159,81,1,Uwiteka atoranya abahanga bo kuremesha rya Hema n'ibyaryo byose
+160,81,2,Itegeko ry'isabato. Mose ahabwa ibisate by'amabuye biriho Ibihamya
+161,82,1,Aroni acurira Abisirayeli ikigirwamana cy'ikimasa mu izahabu
+162,82,2,Mose abahanisha ibihano
+163,83,1,Ihema ry'Imana rikurwa mu Bisirayeli
+164,83,2,"Mose yinginga Uwiteka kujyana n'Abisirayeli, yerekwa ubwiza bwe"
+165,84,1,Uwiteka aha Mose ibindi bisate by'amabuye biriho amategeko
+166,84,2,"Abantu bose bakugose bazabona icyo Uwiteka akora, kuko nzagukoresha ibiteye ubwoba."
+167,84,3,Mu maso ha Mose harabagirana
+168,85,1,Amaturo yo kuremesha Ihema ry'Imana
+169,86,1,Ibintu by'ihema bikorwa
+170,87,1,Isanduku yera n'iby'ahera bindi
+171,87,2,Igitereko cy'amatabaza
+172,87,3,Igicaniro cyo koserezaho imibavu
+173,88,1,Igicaniro cyo koserezaho ibitambo
+174,88,2,Iby'urugo rw'ubuturo bwera
+175,89,1,Imyambaro y'abatambyi
+176,89,2,Umurimo wo kūbaka urarangira
+177,90,1,Mose ashinga Ihema
+178,90,2,Ubwiza bw'Uwiteka bwuzura ubwo buturo
+179,91,1,Ibitambo byoswa
+180,92,1,Amaturo y'ifu
+181,93,1,Ibitambo by'uko bari amahoro
+182,94,1,Ibitambo byo gutambirwa ibyaha byakozwe n'abatabyitumye
+183,95,1,Ubundi buryo bw'ibitambo bitambirwa ibyaha
+184,95,2,Ibitambo byo gukuraho urubanza
+185,95,3,Igitambo gikuraho urubanza rwo kuriganya cyangwa guhuguza
+186,96,1,Ibibwiriza abatambyi iby'igitambo cyoswa
+187,96,2,Iby'ituro ry'ifu
+188,96,3,Iby'igitambo gitambirwa ibyaha
+189,97,1,Itegeko ry'igitambo gikuraho urubanza
+190,97,2,Itegeko ry'igitambo cy'uko bari amahoro
+191,97,3,Urugimbu n'amaraso ni ibizira
+192,97,4,Andi mategeko y'ibitambo by'uko bari amahoro
+193,98,1,Aroni n'abana be berezwa umurimo w'ubutambyi
+194,99,1,Ibyo kweza abatambyi birarangizwa
+195,100,1,"Uwiteka yica Nadabu na Abihu, abahoye icyaha gikomeye"
+196,100,2,"Abatambyi babuzwa kunywa ibisindisha, bagikora umurimo"
+197,100,3,Mose ategeka abatambyi kurya imyanya yabo
+198,100,4,Aroni asobanura icyatumye yosa ihene yatambiwe ibyaha
+199,101,1,Ibifite ubugingo bizira n'ibitazira
+200,102,1,Guhumana k'umugore wabyaye
+201,103,1,Amategeko y'ibibembe
+202,104,1,Amategeko yo guhumanurwa k'umubembe
+203,104,2,Amategeko y'ibibembe bifashe inzu
+204,105,1,Amategeko y'abavubwamo n'ibihumanya mu mubiri
+205,106,1,Amategeko y'umunsi w'impongano
+206,107,1,"Uwiteka abuza Abisirayeli kugira ahandi babagira amatungo, atari imbere y'Ihema ry'ibonaniro"
+207,107,2,Amategeko y'uko bagenza amaraso yose
+208,108,1,Uwiteka abategeka kutagira ingeso nk'iz'Abanyakanāni
+209,108,2,Abo umugabo azirana kuryamana na bo
+210,108,3,Abaca kuri ayo mategeko baba bahumanije igihugu cyabo
+211,109,1,Amategeko y'uburyo bwinshi
+212,110,1,Ibihano bikwiriye abaca ku mategeko
+213,110,2,Abisirayeli bakwiriye kwitandukaniriza n'abandi kuba abera
+214,111,1,Amategeko yo kwirabura no kurongorana by'abatambyi
+215,111,2,Inenge zababurisha gukora umurimo wabo
+216,112,1,Umutambyi ntakwiriye kurya ku byera ahumanye
+217,112,2,Amategeko y'abatari abatambyi barya ku byera
+218,112,3,Inenge ziburisha amatungo gutambwa
+219,112,4,Andi mategeko y'ibitambo
+220,113,1,Iminsi mikuru y'Uwiteka
+221,114,1,Itegeko ry'amatabaza yo mu ihema
+222,114,2,Iry'imitsima yo guterekwa imbere y'Uwiteka
+223,114,3,Urubanza rw'uwavumye izina ry'Uwiteka
+224,115,1,Umwaka wa karindwi wo kuraza ihinga
+225,115,2,Umwaka wa mirongo itanu wa yubile
+226,116,1,Andi mategeko y'Imana
+227,116,2,Ibyo Imana isezeranya Abisirayeli nibayumvira
+228,116,3,Imana ibaburira nibatayumvira
+229,116,4,"Nibahanishwa n'ibyo bihano, Imana izibuka isezerano ryayo"
+230,117,1,Amategeko y'imihigo n'ayo gucungura ibyahonzwe
+231,118,1,Kubarwa kw'Abisirayeli
+232,118,2,Abalewi ntibabarwa; Uwiteka ategeka imirimo yabo
+233,119,1,Itegeko ryo kubamba amahema mu byiciro bine
+234,120,1,Kubarwa kw'Abalewi n'andi mategeko yabo
+235,121,1,"Abalewi babarurwa, imirimo yabo isobanurwa"
+236,122,1,Amategeko ategekwa abanduza
+237,122,2,Itegeko ryo gushora umugore ufuhiwe
+238,123,1,Itegeko ry'Abanaziri
+239,123,2,Umugisha abatambyi basabiraga Abisirayeli
+240,124,1,Amaturo yo kweza igicaniro yatuwe n'abatware b'imiryango y'Abisirayeli
+241,125,1,Amategeko y'Abalewi
+242,126,1,Andi mategeko ya Pasika
+243,126,2,Inkingi y'igicu yayoboraga Abisirayeli mu rugendo rwabo
+244,127,1,Amakondera y'ifeza
+245,127,2,Abisirayeli bakurikira igicu
+246,127,3,Mose asaba muramu we kujyana na bo
+247,128,1,"Abisirayeli baritotomba, umuriro w'Uwiteka wicamo benshi"
+248,128,2,"Abisirayeli banga manu basaba Mose inyama, ariganyira"
+249,128,3,Uwiteka aha Mose abafasha mirongo irindwi
+250,128,4,Abafasha ba Mose barahanura: yanga kugira ishyari
+251,128,5,"Abisirayeli bahabwa inyama, bahanwa"
+252,129,1,"Uwiteka ateza Miriyamu ibibembe, Mose aramusabira"
+253,130,1,Abatasi cumi na babiri bajya gutata i Kanāni
+254,130,2,Icumi rizana inkuru y'incamugongo ya cyo; Kalebu abahana
+255,131,1,Abisirayeli banga kujya i Kanāni
+256,131,2,Uwiteka ategeka ko Abisirayeli bazagwa mu butayu
+257,132,1,Iby'amaturo
+258,132,2,"Ibyaha by'utabyitumye, n'ubikora yihandagaje"
+259,133,1,"Kōra, Datani na Abiramu bagoma, barimbuka"
+260,134,1,Aroni ahongerera Abisirayeli
+261,134,2,Inkoni ya Aroni irabya
+262,135,1,Imirimo y'abatambyi n'iy'Abalewi bandi
+263,135,2,Ibyo gutunga abatambyi n'Abalewi
+264,135,3,Abalewi na bo batange igice kimwe mu icumi
+265,136,1,"Amategeko y'igitambo cy'iriza y'igaju, n'ay'amazi ahumanura"
+266,137,1,"Mose na Aroni bakora icyaha, gituma Uwiteka yanga ko bajya i Kanāni"
+267,137,2,Abedomu banga ko Abisirayeli banyura mu gihugu cyabo
+268,137,3,Aroni arapfa
+269,138,1,Abisirayeli baterwa n'inzoka z'ubusagwe
+270,138,2,Abisirayeli batsinda Sihoni na Ogi
+271,139,1,Balaki yinginga Balāmu kuvuma Abisirayeli
+272,139,2,"Imana irakarira Balāmu, indogobe ye imuhana"
+273,139,3,"Balāmu agerageza kabiri kuvuma Abisirayeli, Imana imushyira mu kanwa amagambo abahesha umugisha"
+274,141,1,Balāmu yongera kabiri guhesha Abisirayeli umugisha
+275,142,1,"Abisirayeli basenga ibigirwamana, Uwiteka abahana"
+276,143,1,Babara Abisirayeli ubwa kabiri
+277,144,1,Uwiteka acira abakobwa ba Selofehadi urubanza
+278,144,2,Uwiteka abwira Mose yuko urupfu rwe ruri hafi
+279,144,3,Uwiteka aha Yosuwa ubutware bwa Mose
+280,145,1,Ibikwiriye kujya bitambwa mu minsi mikuru
+281,146,1,Ibikwiriye kujya bitambwa mu kwezi kwa karindwi
+282,147,1,Amategeko y'imihigo
+283,148,1,Abisirayeli batsinda Abamidiyani
+284,148,2,"Ibyategekewe Abamidiyanikazi, no ku minyago n'isahu"
+285,149,1,Abarubeni n'Abagadi bashaka guhabwa gakondo hakuno ya Yorodani
+286,150,1,Indaro zo mu rugendo rw'Abisirayeli uhereye muri Egiputa ukageza kuri Yorodani
+287,151,1,Ingabano z'igihugu Abisirayeli bazahabwa
+288,151,2,Amazina y'abategetswe kugabanya Abisirayeli igihugu
+289,152,1,Imidugudu y'Abalewi
+290,152,2,Imidugudu y'ubuhungiro
+291,153,1,Amategeko yo kurongorana kw'abakobwa ba Selofehadi n'abandi nka bo
+292,154,1,Mose yibutsa Abisirayeli ubuhemu bahemutse ku Uwiteka i Kadeshi
+293,155,1,Urugendo n'intambara baboneye mu butayu
+294,157,1,Urubyiruko rw'Abisirayeli bigishwa ibya Sinayi
+295,158,1,Urubyiruko rw'Abisirayeli bigishwa isezerano rya Mose
+296,160,1,Bategetswe kwitandukanya n'ayandi mahanga
+297,161,1,Mose abihanangiriza
+298,165,1,Mose ababwira ibibahesha umugisha
+299,166,1,Ibimenyetso by'abahanuzi b'ibinyoma
+300,168,1,Umwaka wa karindwi wo guhara imyenda
+301,169,1,Ibya Pasika n'iyindi minsi mikuru
+302,171,1,Abisirayeli bahanurirwa ko umuhanuzi Mesiya azaturuka muri bo
+303,172,1,Imidugudu y'ubuhungiro
+304,173,1,Amategeko y'intambara
+305,174,1,Andi mategeko
+306,175,1,Andi mategeko
+307,176,1,Andi mategeko
+308,177,1,Amategeko yo kwahukana
+309,178,1,Andi mategeko
+310,179,1,Amategeko yo kuganura
+311,180,1,Ibibuye binini byashinzwe Ebali n'i Gerizimu
+312,181,1,Isezerano Imana yagiranye n'Abisirayeli i Mowabu
+313,184,1,Mose asezera ku batambyi no kuri Yosuwa
+314,185,1,Indirimbo ya Mose
+315,186,1,Mose asabira imiryango y'Abisirayeli umugisha
+316,187,1,Urupfu rwa Mose
+317,188,1,Imana itoranya Yosuwa ngo azungure Mose
+318,188,2,Yosuwa abwira abantu yuko bazambuka Yorodani
+319,189,1,Rahabu yakira abatasi abahisha
+320,189,2,Basezerana uko bazabigenza
+321,189,3,Abatasi basubirayo babatekerereza ibyo babonye
+322,190,1,"Yosuwa ajya kuri Yorodani, Uwiteka amukomeza umutima"
+323,190,2,"Yosuwa ategeka abantu, abakomeza"
+324,190,3,Amazi ya Yorodani atandukana
+325,191,1,Batoranya abagabo bo gutora amabuye yo muri Yorodani
+326,191,2,"Bambuka, amazi ya Yorodani asubirana"
+327,192,1,Yosuwa akebesha abantu
+328,192,2,Baziririza ibya Pasika
+329,192,3,Marayika abonekera Yosuwa
+330,193,1,Imana ibwira Yosuwa uburyo bazazenguruka Yeriko
+331,193,2,"Inkike z'i Yeriko ziriduka, bakiza Rahabu"
+332,193,3,Yosuwa avuma i Yeriko
+333,194,1,Abisirayeli batera kuri Ayi bakaneshwa
+334,194,2,"Yosuwa arira, asobanuza Uwiteka impamvu zabyo"
+335,194,3,"Akani afatwa, abyatura, bamwica"
+336,195,1,Yosuwa yigira inama yo gutera Ayi
+337,195,2,"Batera Ayi bayirimbura, bica umwami waho"
+338,195,3,"Yosuwa yubaka igicaniro, yandika amategeko ku mabuye"
+339,196,1,Abagibeyoni bigira inama zo kwikiza barahanwa
+340,197,1,"Barwanya abandi bami batanu, bo baterwa n'urubura"
+341,197,2,"Izuba rihagarara umunsi wose, ntiryarenga"
+342,197,3,Bica abo bami
+343,197,4,Bahindūra imidugudu yabo
+344,198,1,Yabini ahamagaza abandi bami ngo bamutabare kurwanya Abisirayeli
+345,198,2,Yosuwa arangiza guhindūra igihugu cyose
+346,199,1,Amazina y'abami baneshejwe na Yosuwa
+347,200,1,Yosuwa ababwira ibice by'ibihugu bitarahindūrwa
+348,200,2,Imiryango ibiri n'igice cy'umuryango by'Abisirayeli na gakondo yabo
+349,201,1,Yosuwa agabanya iyindi miryango y'Abisirayeli
+350,201,2,Agabira Kalebu mwene Yefune i Heburoni
+351,202,1,Umugabane w'Abayuda
+352,202,2,Kalebu ahindūra imisozi yahawe
+353,202,3,Imidugudu y'umuryango w'Abayuda
+354,203,1,Umugabane w'Abefurayimu
+355,204,1,Umugabane w'Abamanase
+356,204,2,Bene Yosefu basaba kongererwa umugabane wabo
+357,205,1,Imiryango irindwi ituma intumwa zo kujya kureba uko bakebewe
+358,205,2,Umugabane w'Ababenyamini
+359,206,1,Umugabane w'Abasimeyoni
+360,206,2,Umugabane w'Abazebuluni
+361,206,3,Umugabane w'Abisakari
+362,206,4,Umugabane w'Abashēri
+363,206,5,Umugabane w'Abanafutali
+364,206,6,Umugabane w'Abadani
+365,207,1,Imidugudu y'ubuhungiro
+366,208,1,Umugabane w'Abalewi
+367,209,1,"Yosuwa asezerera Abarubeni n'Abagadi, n'ab'igice cy'umuryango wa Manase"
+368,209,2,Biyubakira igicaniro kuri Yorodani
+369,209,3,"Kwiregura kw'Abarubeni n'Abagadi, n'ab'igice cy'umuryango wa Manase"
+370,209,4,Abarubeni buzura n'Abisirayeli
+371,210,1,Yosuwa abihanangiriza kuzirukana amahanga asigaye
+372,211,1,"Yosuwa atekerereza Abisirayeli ibyabaye, abihanangiriza gukorera Uwiteka wenyine"
+373,211,2,Yosuwa ashinga ibuye ry'umuhamya
+374,212,1,Abayuda n'Abasimeyoni banesha umwami w'Abanyakanāni
+375,212,2,Kalebu ahindūra ibihugu yahawe
+376,212,3,Abisirayeli bakomeza kwirukana ababisha
+377,213,1,Marayika w'Uwiteka ahanira abantu i Bokimu
+378,213,2,Gupfa kw'abo mu gihe cya Yosuwa
+379,213,3,"Abisirayeli batandukana n'Imana, irabahana"
+380,214,1,Abisirayeli batangira kwiyanduza mu yandi mahanga
+381,214,2,Umucamanza Otiniyeli abakiza Abamesopotamiya
+382,214,3,Ehudi abakiza amaboko y'Abamowabu
+383,215,1,Debora na Baraki batera Sisera umugaba wa Yabini
+384,216,1,Indirimbo ya Debora
+385,217,1,"Abisirayeli baneshwa n'Abamidiyani, Uwiteka ababwira impamvu"
+386,217,2,Imana itoranya Gideyoni kuba umukiza w'Abisirayeli
+387,217,3,Gideyoni asenya igicaniro cya Bāli
+388,217,4,"Gideyoni asaba umuhamya, ngo amenye ko ari we Imana itoranyije gukiza Abisirayeli"
+389,218,1,Gideyoni anesha ingabo z'Abamidiyani
+390,218,2,Imana igira Gideyoni inama yuko bazarwana
+391,218,3,Abamidiyani batatana
+392,219,1,"Abefurayimu batonganya Gideyoni, abasubizanya ineza"
+393,219,2,Gideyoni yica Zeba na Salumuna
+394,219,3,Gideyoni yanga kwimikwa
+395,219,4,Abisirayeli basubira inyuma Gideyoni amaze gupfa
+396,220,1,"Abimeleki yica bene se bose, Yotamu wenyine arokoka"
+397,220,2,Yotamu abacira umugani w'umwami w'ibiti
+398,220,3,Imana yitura Abimeleki n'ab'i Shekemu inabi bagiriye bene Yerubāli
+399,221,1,Abisirayeli bongera gucumura ku Uwiteka
+400,222,1,Yefuta atoranirizwa kuba umucamanza wabo
+401,222,2,Yefuta atuma intumwa ku mwami w'Abamoni
+402,222,3,"Yefuta anesha Abamoni, atabarutse ahigura umukobwa we"
+403,223,1,"Abefurayimu bagirira ishyari Abanyagaleyadi, bararwana"
+404,224,1,Marayika w'Imana abonekera ababyeyi ba Samusoni
+405,225,1,Samusoni abenguka umukobwa w'Umufilisitiyakazi
+406,225,2,Samusoni atanyaguza intare
+407,225,3,"Arongora umukobwa w'Umufilisitiyakazi, abasākuza igisākuzo"
+408,226,1,Samusoni yongera kugomera Abafilisitiya arabica
+409,227,1,Samusoni agushwa n'abagore
+410,227,2,Urupfu rwa Samusoni
+411,228,1,Mika yiremera ibishushanyo bisengwa
+412,229,1,Abadani banyaga Mika ibishushanyo bye
+413,229,2,Abadani batera Abasidoni
+414,230,1,Ibyabaye ku Mulewi n'umugore we
+415,231,1,Abisirayeli bitura Ababenyamini inabi bakoze
+416,231,2,Ababenyamini bicwa cyane
+417,232,1,Abisirayeli babonera Ababenyamini abagore
+418,233,1,Elimeleki na Nawomi basuhukira i Mowabu
+419,233,2,Rusi yanga gusiga nyirabukwe
+420,234,1,"Rusi ahumba mu mirima ya Bowazi, amugirira neza"
+421,235,1,"Rusi ajya ku mbuga ya Bowazi, amusaba kumuhungura"
+422,236,1,Wa mucunguzi wundi yanga guhungura Rusi
+423,236,2,"Bowazi ahungura Rusi, abyara Obedi sekuru wa Dawidi"
+424,237,1,Kuvuka kwa Samweli
+425,238,1,Ibyishimo bya Hana
+426,238,2,Ibyaha bya bene Eli b'abatambyi
+427,238,3,Samweli akura
+428,238,4,Eli acyaha abahungu be
+429,238,5,Umuhanuzi ahanurira Eli igihano kizamubaho
+430,239,1,Imana ihishurira Samweli ibizaba ku nzu ya Eli
+431,240,1,Abafilisitiya banyaga isanduku y'Uwiteka mu ntambara
+432,241,1,Isanduku y'Imana itsinda Dagoni ikigirwamana cy'Abafilisitiya
+433,242,1,Abafilisitiya basubiza isanduku y'Imana mu Bisirayeli
+434,243,1,Uwiteka akiza Abisirayeli amaboko y'Abafilisitiya
+435,244,1,Abantu bisabira umwami
+436,245,1,Sawuli ashaka indogobe zabo zazimiye
+437,245,2,Samweli amenya ko Sawuli ari we Imana yatoranije
+438,246,1,Sawuli yimikishwa amavuta aba umwami w'Abisirayeli
+439,247,1,Sawuli akiza ab'i Yabeshi y'i Galeyadi
+440,248,1,Samweli yihanagiriza abantu
+441,249,1,Abafilisitiya bazinukwa Abisirayeli
+442,249,2,Ubwira bwa Sawuli
+443,249,3,Abisirayeli bakena intwaro zo kurwanisha
+444,250,1,Yonatani anesha ingabo z'Abafilisitiya
+445,250,2,Sawuli agusha Abisirayeli isari
+446,250,3,Abantu bakiza Yonatani amaboko ya Sawuli
+447,251,1,Sawuli ategekwa kurimbura Abamaleki
+448,251,2,Samweli ahanira Sawuli ko atumviye itegeko ry'Imana
+449,252,1,Samweli atoranya Dawidi ngo abe umwami
+450,252,2,Dawidi ahakwa na Sawuli aba umucuranzi we
+451,253,1,Dawidi yica Goliyati
+452,254,1,Urukundo rwa Dawidi na Yonatani
+453,254,2,Dawidi asingizwa na rubanda
+454,254,3,Sawuli ashyingira Dawidi umukobwa we Mikali
+455,255,1,Yonatani ahakirwa Dawidi kuri Sawuli
+456,255,2,Sawuli yongera guhīga Dawidi
+457,255,3,Sawuli akurikira Dawidi
+458,256,1,Sawuli akomeza kwanga Dawidi
+459,256,2,Yonatani na Dawidi bajya inama yo kumenya imigambi ya Sawuli
+460,257,1,Dawidi arya ku mitsima yejejwe
+461,258,1,"Dawidi arahunga, benshi bamusangayo"
+462,258,2,"Sawuli yica abatambyi b'Uwiteka, abahora gufasha Dawidi"
+463,259,1,Dawidi atabara i Keyila
+464,259,2,Sawuli yenda gufata Dawidi
+465,259,3,Dawidi na Yonatani bongera gusezerana
+466,260,1,"Sawuli akomeza kugenza Dawidi, Dawidi yanga kumwica"
+467,261,1,Ibya Nabali
+468,262,1,Sawuli yongera kugenza Dawidi
+469,263,1,"Dawidi ariheba, ahungira mu Bafilisitiya"
+470,263,2,Akishi aha Dawidi i Sikulagi kuhatura
+471,264,1,Sawuli ajya gushikisha
+472,265,1,Abatware b'Abafilisitiya bivovotera Akishi
+473,266,1,Abamaleki batwika i Sikulagi Dawidi adahari
+474,266,2,"Dawidi akurikira iminyago, ayifatira mu nzira ayigarura"
+475,267,1,Urupfu rwa Sawuli n'uko yaguye mu ntambara
+476,268,1,Dawidi abikirwa ko Sawuli na Yonatani bapfuye
+477,268,2,Dawidi aborogera Sawuli na Yonatani
+478,269,1,Dawidi yimikwa n'Abayuda
+479,269,2,Abagaragu ba Sawuli n'aba Dawidi barwana
+480,270,1,Abuneri yangana na Ishibosheti
+481,270,2,Abuneri yuzura na Dawidi
+482,270,3,"Yowabu ahōrera Asaheli, yica Abuneri"
+483,270,4,Dawidi aririra Abuneri
+484,271,1,Urupfu rwa Ishibosheti
+485,272,1,Dawidi aba umwami w'Abisirayeli bose
+486,272,2,Dawidi yongera gutsinda Abafilisitiya
+487,273,1,Dawidi agarura isanduku y'Imana mu rurembo rwe
+488,274,1,Imana isezeranya Dawidi kuzakomeza ubwami bwe
+489,274,2,Isengesho Dawidi yasenze Imana
+490,275,1,Kunesha kwa Dawidi
+491,276,1,Dawidi agirira neza Mefibosheti mwene Yonatani
+492,277,1,Dawidi anesha Abasiriya
+493,278,1,Icyaha cya Dawidi
+494,279,1,Umugani wa Natani
+495,279,2,Dawidi asabira umwana ntibyamubuza gupfa
+496,279,3,Dawidi atsinda i Raba
+497,280,1,Amunoni akinda Tamari
+498,280,2,"Abusalomu ahōra Amunoni ibya mushiki we, aramwica"
+499,281,1,Abusalomu yiyunga na Dawidi
+500,282,1,Abusalomu agandisha abantu
+501,282,2,Guhunga kwa Dawidi
+502,283,1,Siba afasha Dawidi kandi abeshyera Mefibosheti
+503,283,2,Shimeyi atuka Dawidi
+504,283,3,Abusalomu agisha Ahitofeli inama
+505,284,1,Hushayi arogoya inama za Ahitofeli
+506,284,2,Bazanira Dawidi inkuru z'izo nama
+507,285,1,"Abisirayeli barwana n'aba Dawidi, Abusalomu agwayo"
+508,285,2,Babikira umwami ko Abusalomu yapfuye
+509,286,1,Yowabu ahana Dawidi kuborogera Abusalomu
+510,286,2,Abisirayeli n'Abayuda bajya inama yo kugarura Dawidi
+511,286,3,Shimeyi aza kwitwara ku mwami
+512,286,4,Mefibosheti aza gusanganira umwami
+513,286,5,Dawidi ashimira Barizilayi ibyo yamukoreye
+514,287,1,Ubugome bwa Sheba
+515,287,2,Yowabu yica Amasa
+516,288,1,Ab'i Gibeyoni bihōrera
+517,288,2,Izindi ntambara za Dawidi
+518,289,1,Indirimbo ya Dawidi
+519,290,1,Iby'ubutwari ingabo za Dawidi zakoze
+520,291,1,Dawidi abara abantu
+521,291,2,Imana iha Dawidi igihano
+522,291,3,Dawidi atanga igitambo cy'impongano
+523,292,1,Dawidi akiriho yimika Salomo
+524,293,1,Dawidi araga Salomo maze aratanga
+525,293,2,"Salomo yima, yica Adoniya"
+526,293,3,Yowabu aricwa
+527,293,4,Salomo ahōra Shimeyi
+528,294,1,Salomo asaba Imana ubwenge
+529,294,2,Salomo acira abagore babiri imanza
+530,295,1,Abatware ba Salomo
+531,296,1,Iby'icyubahiro cya Salomo
+532,296,2,Salomo yigira inama yo kubaka inzu y'Uwiteka
+533,297,1,Imyubakire y'inzu y'Imana
+534,298,1,Salomo yiyubakira iye nzu
+535,298,2,Salomo arimbisha inzu y'Uwiteka
+536,299,1,Bacyura isanduku mu rusengero
+537,299,2,Isengesho rya Salomo
+538,299,3,Ibitambo Salomo yatambiye Uwiteka
+539,300,1,Imana iburira Salomo
+540,300,2,Indi mirimo ya Salomo
+541,301,1,Iby'umugabekazi w'i Sheba
+542,301,2,Ubutunzi bwa Salomo
+543,302,1,Salomo agushwa n'abagore benshi yarongoraga
+544,302,2,Imana ihana Salomo
+545,302,3,Abantu batangira kugomera Salomo
+546,302,4,Yerobowamu ahanurirwa ko azagabana ubwami bwa Isirayeli
+547,303,1,Ubwami bwa Isirayeli bwigabanyamo kabiri
+548,304,1,Umuntu w'Imana yavumye igicaniro cya Yerobowamu
+549,304,2,Umuhanuzi utumviye itegeko ry'Imana yishwe n'intare
+550,305,1,Ahiya ahanura ibizaba ku nzu ya Yerobowamu
+551,305,2,Iby'ingoma ya Rehobowamu
+552,306,1,Iby'Umwami Abiyamu
+553,306,2,Iby'Umwami Asa
+554,306,3,Imana ihōra inzu ya Yerobowamu ibyaha bye
+555,307,1,"Ibyo ku ngoma za Bāsha na Ela, na Zimuri na Omuri"
+556,308,1,"Eliya ateza amapfa, yihisha ku kagezi kitwa Keriti"
+557,308,2,"Eliya ajya i Sarefati, acumbikirwa n'umupfakazi"
+558,309,1,Eliya ahura na Obadiya amutuma kuri Ahabu
+559,309,2,"Eliya abonana na Ahabu, atumira abahanuzi ba Bāli"
+560,309,3,Eliya yica abahanuzi ba Bāli
+561,310,1,Imana yiyereka Eliya
+562,310,2,Eliya na Elisa basezerana
+563,311,1,Benihadadi umwami w'i Siriya yendereza Ahabu
+564,311,2,Umuhanuzi ahanurira Ahabu kunesha
+565,311,3,Ahabu anesha Benihadadi ariko baracudika ntiyamwica
+566,311,4,Uwiteka avuma Ahabu amuhoye gukiza Benihadadi
+567,312,1,Ahabu anyaga Naboti uruzabibu rwe
+568,312,2,Eliya atumwa kuvuma Ahabu
+569,313,1,Ahabu na Yehoshafati bajya inama zo gutabara
+570,313,2,"Abami batabara, Ahabu yicwa"
+571,313,3,Ibya Yehoshafati
+572,314,1,Eliya ahanurira Umwami Ahaziya gupfa
+573,315,1,Eliya azamurwa mu ijuru
+574,315,2,Elisa ahumanura amazi
+575,316,1,"Umwami w'i Mowabu agomera Abisirayeli, Imana ituma banesha Abamowabu"
+576,317,1,Elisa akiza umupfakazi umwenda yari arimo
+577,317,2,Iby'umugore w'i Shunemu
+578,317,3,Elisa akiza imboga uburozi
+579,318,1,Ibya Nāmani umugaba w'i Siriya w'umubembe
+580,318,2,Gehazi abeshya arabemba
+581,319,1,Imana yereka umugaragu wa Elisa ingabo zo mu ijuru
+582,319,2,"Ab'i Samariya bagotwa, hatera inzara bararyana"
+583,320,1,Elisa ahanura yuko bagiye gukira
+584,320,2,Ababembe bagarukanira abandi inkuru z'agakiza
+585,321,1,Uko Umwami Benihadadi yishwe na Hazayeli
+586,321,2,Iby'ingoma ya Yoramu umwami w'Abayuda
+587,321,3,Ibyo ku ngoma ya Ahaziya umwami w'Abayuda
+588,322,1,Yehu aba umwami
+589,322,2,Yehu yica Yehoramu na Ahaziya
+590,322,3,Yehu yica Yezebeli
+591,323,1,Inzu ya Ahabu irimburwa
+592,323,2,Yehu agira ishyaka ryo kurwanya Bāli
+593,324,1,Umwamikazi Ataliya arimbura abana b'umwami
+594,325,1,"Ibyo ku ngoma ya Yowasi, asana urusengero"
+595,326,1,Iby'ingoma ya Yehowahazi
+596,326,2,Gupfa kwa Elisa
+597,327,1,Umwami w'Abisirayeli arwana n'umwami w'Abayuda
+598,328,1,Ibyo ku ngoma ya Uziya
+599,328,2,Uko abami b'Abisirayeli bakurikiranye
+600,329,1,Ibyo ku ngoma ya Ahazi
+601,330,1,Abashuri banyaga Abisirayeli
+602,330,2,Ibyaha by'ubupagani bituma Abisirayeli bajyanwa ho iminyago
+603,330,3,Umwami wa Ashuri yimurira abantu be mu midugudu y'Abisirayeli
+604,331,1,"Umwami wa Ashuri anesha Abisirayeli, abajyana ho iminyago"
+605,331,2,Umwami wa Ashuri atera i Buyuda
+606,332,1,Gusenga kwa Hezekiya
+607,332,2,Yesaya ahanura ibizaba ku mwami wa Ashuri azize umurengwe
+608,332,3,Ingabo za Senakeribu zirimbuka
+609,333,1,Hezekiya yongerwa imyaka yo kubaho
+610,333,2,Hezekiya amurikira intumwa z'i Babuloni ubutunzi bwe
+611,334,1,Umwami Manase akora ibyangwa n'Uwiteka
+612,334,2,Ibya Amoni
+613,335,1,Iby'ingoma ya Yosiya
+614,335,2,"Asanisha inzu y'Imana, babona igitabo cy'amateka"
+615,335,3,Abasannyi babona igitabo cy'amategeko
+616,336,1,"Yosiya agarura abantu ku Mana, arwanya iby'ubupagani"
+617,336,2,Yosiya asohoza ibyahanuwe ku ngoma ya Yerobowamu
+618,336,3,Baziririza Pasika
+619,337,1,Nebukadinezari atsinda i Yerusalemu
+620,338,1,Nebukadinezari yongera kugota i Yerusalemu arahatsinda
+621,338,2,Abari basigaye i Yerusalemu bajyanwa ho iminyago i Babuloni
+622,339,1,Urutonde rw'amasekuruza uhereye kuri Adamu ukageza kuri bene Esawu
+623,339,2,Abami n'abatware bo muri Edomu
+624,340,1,Abakomoka kuri Yuda mwene Yakobo
+625,341,1,Abakomoka kuri Dawidi
+626,342,1,Urundi rutonde rw'abakomoka kuri Yuda
+627,342,2,Abakomoka kuri Simiyoni
+628,343,1,Abakomoka kuri Rubeni
+629,343,2,Abakomoka kuri Gadi
+630,343,3,Abakomoka kuri Manase
+631,343,4,Abatambyi bakuru bakomoka kuri Lewi
+632,344,1,Abandi bakomoka kuri Lewi
+633,344,2,Imidugudu yahawe abakomoka kuri Lewi
+634,345,1,Abakomoka kuri Isakari
+635,345,2,Abakomoka kuri Benyamini
+636,345,3,Abakomoka kuri Nafutali
+637,345,4,Abakomoka kuri Manase
+638,345,5,Abakomoka kuri Efurayimu
+639,345,6,Abakomoka kuri Asheri
+640,346,1,Urundi rutonde rw'abakomoka kuri Benyamini
+641,346,2,Abakomoka kuri Sawuli
+642,347,1,Abari batuye i Yerusalemu
+643,347,2,Amasekuruza y'Umwami Sawuli n'abamukomotseho
+644,348,1,Gupfa kwa Sawuli
+645,349,1,Abisirayeli bimika Dawidi
+646,349,2,Intwari za Dawidi
+647,350,1,Ababanje kuyoboka Dawidi
+648,351,1,Dawidi ajya kwenda isanduku y'Uwiteka. Uza apfa. Isanduku iguma kwa Obededomu
+649,352,1,Hiramu afasha Dawidi. Amazina y'abana ba Dawidi
+650,352,2,Dawidi anesha Abafilisitiya
+651,353,1,Dawidi azana isanduku y'Imana mu rurembo
+652,354,1,"Ibirori byo kugarura isanduku, na zaburi bashimishije Imana"
+653,355,1,Dawidi ahakanirwa kubakira Imana inzu
+654,355,2,Imana isezeranya Dawidi n'urubyaro rwe umugisha
+655,355,3,Isengesho rya Dawidi
+656,356,1,Dawidi anesha Abafilisitiya n'Abamowabu
+657,357,1,Abamoni basuzugura intumwa za Dawidi
+658,357,2,Dawidi ahōrera intumwa ze
+659,359,1,Satani yoshya Dawidi kubara Abisirayeli. Imana imuhanisha mugiga
+660,360,1,Dawidi yitegura ibyo kubaka urusengero
+661,361,1,Dawidi agabanya Abalewi imirimo
+662,362,1,Abatware bo mu Balewi
+663,366,1,Dawidi yihanangiriza abantu
+664,366,2,Dawidi aha Salomo icyitegererezo cy'urusengero
+665,367,1,Amaturo y'abantu
+666,367,2,Ishengesho rya Dawidi
+667,367,3,Salomo aba umwami
+668,368,1,Salomo asaba ubwenge
+669,369,1,Imyiteguro yo kubaka urusengero
+670,370,1,Imyubakire y'urusengero
+671,371,1,Ibikoresho by'urusengero
+672,372,1,Isanduku icyurwa mu rusengero
+673,373,1,Isengesho rya Salomo
+674,374,1,Icyubahiro cy'Imana cyuzura urusengero
+675,374,2,Imana ibasezeranya ibyiza n'ibibi
+676,375,1,Imyubakire ya Salomo
+677,376,1,Iby'Umugabekazi w'i Sheba
+678,376,2,Ubutunzi bwa Salomo
+679,377,1,"Rehobowamu atwaza igitugu, Abisirayeli baramugandira"
+680,378,1,Abayuda bikomeza
+681,379,1,Umwami wa Egiputa atera i Buyuda asahura urusengero
+682,380,1,Abayuda banesha Abisirayeli
+683,381,1,"Asa aterwa n'Abanyetiyopiya, atakambira Uwiteka aramukiza"
+684,382,1,"Asa abuza kuramya ibishushanyo, asezerana isezerano n'Uwiteka"
+685,383,1,Asa afatanya n'Abasiriya
+686,384,1,Umwami Yehoshafati arakomera
+687,385,1,"Yehoshafati yuzura na Ahabu, Mikaya aramuhana"
+688,386,1,"Yehoshafati ahanwa na Yehu, ategeka abacamanza"
+689,387,1,"Abayuda baterwa n'Abamowabu, Yehoshafati afatwa n'ubwoba atakambira Uwiteka"
+690,387,2,Abamowabu babateye baneshwa
+691,387,3,"Yehoshafati yategekaga Abayuda, atunganiye Imana"
+692,388,1,Ibya Yoramu. Eliya amuhanurira ibyago
+693,389,1,Ahaziya yicwa na Yehu
+694,389,2,Ibya Ataliya
+695,390,1,"Yehoyada yimika Yowasi, Ataliya yicwa"
+696,391,1,Yowasi asana urusengero. Yehoyada amaze gupfa Yowasi areka Uwiteka
+697,391,2,Zekariya aterwa amabuye bamuhoye kuvuga ijambo ry'Imana
+698,392,1,Ibyo ku ngoma ya Amasiya
+699,392,2,Abayuda n'Abisirayeli barwana
+700,393,1,Umwami Uziya afashwa agakomera
+701,393,2,Umwami Uziya yishyira hejuru agafatwa n'ibibembe
+702,394,1,Ingoma ya Yotamu
+703,395,1,Ibyo ku ngoma ya Ahazi
+704,395,2,Abayuda batewe n'Abedomu batabaza abami ba Ashūri
+705,396,1,Ibyo ku ngoma ya Hezekiya
+706,396,2,Umwami asubizaho imihango yo mu rusengero yari yaravuyeho
+707,397,1,Bitegura kuziririza Pasika
+708,397,2,Baziririza Pasika
+709,398,1,Umwami Hezekiya akomeza gutunganya iby'idini mu gihugu
+710,399,1,"Senakeribu umwami wa Ashūri, atera i Buyuda"
+711,399,2,Senakeribu akangisha abaturage b'i Yerusalemu
+712,399,3,Hezekiya atakambira Imana ibakiza Senakeribu
+713,400,1,Ibyo ku ngoma ya Manase; akora ibyaha bishayishije
+714,400,2,"Manase ajyanwa ho imbohe, Imana imusubiza ku ngoma ye"
+715,401,1,Umwami Yosiya agarura abantu ku Mana
+716,401,2,Igitabo cy'amategeko ya Mose kiruburwa
+717,401,3,Umwami Yosiya asezerana gukurikira Imana
+718,402,1,Baziririza Pasika
+719,402,2,Umwami Yosiya agwa mu ntambara arwana n'umwami wa Egiputa
+720,403,1,Umwami Yowahazi aneshwa n'Umwami Nebukadinezari
+721,403,2,Sedekiya ajya ku ngoma
+722,403,3,Abayuda bajyanwa i Babuloni ari imbohe
+723,403,4,Umwami Kuro ategeka ko bongera kubaka urusengero
+724,404,1,Umwami Kuro ategeka ko bubaka urusengero
+725,405,1,Abanyagano basubiye iwabo
+726,405,2,Abatambyi n'Abalewi basubiyeyo
+727,405,3,Abasubiyeyo bose n'ibintu byabo n'amaturo yabo
+728,406,1,Bashinga icyotero cy'Imana
+729,406,2,Baziririza iminsi mikuru y'ingando
+730,406,3,Bashinga imfatiro z'urusengero
+731,407,1,Abanzi bashaka kubabuza
+732,407,2,Abanzi bandikira umwami babarega
+733,407,3,Umwami ategeka ko baba baretse kubaka
+734,408,1,"Abahanuzi babatera umwete, bongera kubaka"
+735,408,2,Abanzi bongera kwandikira umwami
+736,409,1,Dariyo ahamya itegeko rya Kuro
+737,409,2,Urusengero rwuzura; barutaha baziririza Pasika
+738,410,1,Umwami atuma Ezira i Yerusalemu
+739,410,2,Umwami aha Ezira urwandiko rw'abatware ngo bazamufashe
+740,411,1,Abazanye na Ezira
+741,411,2,Ezira atumira Abalewi n'Abanetinimu
+742,411,3,Biyiririza ubusa ku mugezi Ahava
+743,411,4,Impiya zabo zibitswa abatambyi cumi na babiri
+744,411,5,Ezira agera i Yerusalemu
+745,412,1,Abantu b'Imana banga kwitandukanya n'abanyamahanga
+746,412,2,Ezira asenga yātura ibyaha by'abantu b'Imana
+747,413,1,Abisirayeli bongera kwitandukanya n'abanyamahanga
+748,414,1,Nehemiya yumva inkuru z'ibyago by'ab'i Yerusalemu
+749,414,2,Gusenga kwa Nehemiya
+750,415,1,Umwami yohereza Nehemiya i Yerusalemu
+751,415,2,Nehemiya ajya kureba inkike zasenyutse
+752,415,3,Nehemiya akomeza abantu ngo bubake
+753,416,1,Amazina y'abubatsi
+754,416,2,Bashinyagurirwa na Sanibalati
+755,417,1,Bubaka biteguye kurwana
+756,418,1,Abantu bitotombera uburetwa bw'Abayuda
+757,418,2,Nehemiya atwara abantu neza yanga kubāka ikoro
+758,419,1,Umurimo w'Imana udeheshwa n'ubugambanyi n'ibikangisho
+759,419,2,Inkike zuzura
+760,420,1,Amazina y'abavuye mu bunyage
+761,421,1,Basoma amategeko barayasobanura
+762,421,2,"Uriya na Hilukiya na Māseya. Ibumoso hahagarara Pedaya na Mishayeli na Malikiya, na Hashumu na Hashibadana na Zekariya na Meshulamu."
+763,421,3,Iminsi mikuru y'ingando bayisubizaho
+764,422,1,Abantu biyiriza ubusa bihana
+765,422,2,Bātura kwinangira imitima kwabo
+766,423,1,Abashyize ikimenyetso ku isezerano
+767,424,1,Abatuye i Yerusalemu
+768,424,2,Abatuye mu yindi midugudu
+769,425,1,Inkike zuzura bakazeza
+770,426,1,Bumva amategeko bakitandukanya n'abapagani
+771,426,2,Nehemiya yirukana Tobiya mu nzu y'Imana
+772,426,3,Abantu basuzuguza isabato
+773,426,4,Gushyingirana n'ayandi mahanga bihanwa
+774,427,1,Ibirori by'Umwami Ahasuwerusi
+775,427,2,Umwamikazi yanga kwitaba umwami
+776,428,1,Esiteri atoranywa aba umwamikazi
+777,428,2,Moridekayi ahishura inama z'abagambaniraga umwami
+778,429,1,"Moridekayi asuzugura Hamani, na we ashaka kurimbura Abayuda"
+779,430,1,"Abayuda barizwa n'itegeko ry'umwami, babibwira Esiteri"
+780,430,2,Esiteri yihara yemera guhakirwa bene wabo
+781,431,1,Esiteri ararika umwami na Hamani
+782,431,2,Hamani ashinga igiti cyo kumanikaho Moridekayi
+783,432,1,Umwami amenya ko Moridekayi ari we wamuburiye
+784,433,1,Esiteri ahakirwa ubwoko bwabo; Hamani amanikwa
+785,434,1,Moridekayi akuzwa; iteka ryo kwica Abayuda rikuka
+786,435,1,Abayuda bica abanzi babo
+787,435,2,Moridekayi ategeka ko iyo minsi iba iminsi mikuru
+788,437,1,"Uburyo Yobu yari akomeye, ari n'umukiranutsi"
+789,437,2,Satani ahinyuza ubukiranutsi bwa Yobu
+790,437,3,Imana yemerera Satani kumunyaga no kumwicira abana
+791,437,4,Yobu ntiyabyinubira akomeza gushima Imana
+792,438,1,Satani asaba Imana guteza Yobu indwara ngo imugerageze
+793,438,2,Satani atera Yobu ibishyute yanga kubyinubira
+794,438,3,Incuti za Yobu ziza kumusura
+795,439,1,Yobu yiganyira umubabaro
+796,440,1,Elifazi aravuga
+797,442,1,Yobu asubiza Elifazi abasaba ko bamenya umubabaro we
+798,444,1,Biludadi ahamya Yobu uburyarya
+799,445,1,"Yobu yemera ko ari umunyabyaha, ahakana ko ari indyarya"
+800,447,1,Zofari na we ahamya Yobu uburyarya
+801,448,1,Yobu ahinyura amagambo y'incuti ze
+802,451,1,Elifazi arongera avuga ubwa kabiri
+803,452,1,Yobu aramusubiza
+804,454,1,Biludadi arongera aravuga ubwa kabiri
+805,455,1,Yobu abasubizanya kwizera gukomeye
+806,455,2,Yobu ahamya ko afite Umucunguzi uzamukiza
+807,456,1,Zofari arongera avuga ubwa kabiri
+808,457,1,Yobu aramusubiza
+809,458,1,Elifazi amuhamya ko icyaha ari cyo cyamuteye ibyago
+810,459,1,Yobu yifuza gushyikiriza Imana amagambo ye
+811,461,1,Biludadi avuga ubwa gatatu
+812,462,1,Yobu amusubiza yuko azakomeza kwizera Imana
+813,468,1,Ibya Elihu
+814,474,1,Imana isubiza Yobu
+815,478,1,Yobu yihana
+816,478,2,"Yobu ati ""Ni cyo cyatumye mvuga icyo ntazi, Ni ibintu byandenze bitangaje mbivuga ntabizi."
+817,478,3,Imana ikiza Yobu imushumbusha ibyo yari yarapfushije
+818,479,1,IGICE CYA MBERE
+819,493,1,Zaburi ya Dawidi.
+820,551,1,IGICE CYA GATATU
+821,568,1,IGICE CYA KANE
+822,585,1,IGICE CYA GATANU
+823,596,1,ALEFU
+824,596,2,BETI
+825,596,3,GIMELU
+826,596,4,DALETI
+827,596,5,HE
+828,596,6,VAWU
+829,596,7,ZAYINI
+830,596,8,HETI
+831,596,9,TETI
+832,596,10,YODI
+833,596,11,KAFU
+834,596,12,LAMEDI
+835,596,13,MEMU
+836,596,14,NUNI
+837,596,15,SAMEKI
+838,596,16,AYINI
+839,596,17,PE
+840,596,18,TSADE
+841,596,19,KOFU
+842,596,20,RESHI
+843,596,21,SHINI
+844,596,22,TAWU
+845,627,1,Ahugura kureka ingeso mbi
+846,627,2,Bwenge arahugura
+847,628,1,Akavuro k'ubwenge
+848,629,1,Imibanire y'abantu n'Imana uko ikwiriye kumera
+849,629,2,Uko imibanire y'abantu ikwiriye kumera
+850,630,1,Imigisha ifatana n'ubwenge
+851,631,1,Ibyo kwirinda ubusambanyi
+852,632,1,Ibyo kwishingira
+853,632,2,Iby'ubute
+854,632,3,Ibyo Imana yanga
+855,632,4,Iby'abamaraya
+856,633,1,Inzira z'ubusambanyi zigana ku rupfu
+857,634,1,Bwenge yongera guhugura
+858,636,1,Imigani ya Salomo
+859,648,1,Inama umunyabwenge atanga
+860,650,1,Iyindi migani y'abanyabwenge
+861,651,1,Iyindi migani ya Salomo
+862,656,1,Imigani ya Aguri
+863,657,1,Inama Umwami Lemuweli yahawe
+864,657,2,Ishimwe ry'umugore ufite umutima
+865,658,1,Ibintu byose nta kamaro
+866,658,2,Ubwenge na bwo nta kamaro
+867,659,1,Ibihimbano n'ubutunzi nta mahoro bitera
+868,660,1,Imana igenera ikintu cyose igihe cyacyo
+869,661,1,Ibibi n'imiruho byo muri ubu bugingo
+870,661,2,Iby'Imana bikwiriye kwitonderwa
+871,662,1,Ubutunzi bukwiriye gukoreshwa mu buryo bwiza
+872,663,1,Iherezo rya byose ni urupfu
+873,666,1,Ababi n'abeza bagirirwa kumwe
+874,667,1,Ubwenge n'ubupfu uko bimeze
+875,668,1,Kora ibyiza ugifite uburyo
+876,669,1,Nta kindi gifite akamaro atari ukubaha Imana
+877,678,1,Yesaya ahana Abayuda ubugome
+878,678,2,Abahugurira guhindukirira Uwiteka ngo bababarirwe
+879,679,1,Ahanurira inzu ya Yakobo ibyiza n'iby'amahoro
+880,680,1,Amakuba azanwa n'ibyaha. Abakobwa b'i Yerusalemu bahanwa
+881,681,1,Imana isezerana gukiza abakobwa b'i Yerusalemu
+882,682,1,Imana ishinja Abayuda ubuhemu
+883,682,2,Icyaha cyo guhuguza n'igihano cyacyo
+884,682,3,Icyaha cy'ubusinzi n'ibindi byaha n'ibihano byabyo
+885,682,4,Imana ihagurukiriza amahanga ubwoko bwayo
+886,683,1,Imana yiyeraka Yesaya iramweza iramutuma
+887,684,1,"Ahazi aterwa na Resini na Peka, Yesaya amuhanurira ibyo kumukomeza"
+888,684,2,Yesaya ahanura umwari uzabyara Imanweli
+889,686,1,Ibihanura Umwami uzavuka ari Umukiza n'Umwami
+890,686,2,"Imana ihana abantu bayo banga kuyumvira, ikomeza kubahana"
+891,687,1,Ashuri hahanurirwa ko hazahanwa
+892,687,2,Imana isezeranya Abisirayeli kubatabara
+893,688,1,Yesaya ahanura ibyerekeye Shami wa Yesayi
+894,688,2,Shami azagarura Abisirayeli bose batatanye
+895,689,1,Uwiteka ashimirwa imbabazi agirira abantu be
+896,690,1,Ibihano Imana izahana i Babuloni
+897,691,1,"Uwiteka azababarira abantu be, ahane umwami w'i Babuloni"
+898,691,2,Uwiteka aburira Ashuri n'i Bufilisitiya
+899,692,1,Mowabu ihanurirwa ibyago bizayibaho
+900,693,1,Imana ibabazwa na Mowabu
+901,693,2,Imana iburira Mowabu ko izahanirwa ubwibone n'uburakari
+902,694,1,Imiburo y'i Damasiko
+903,696,1,Ibyago Abanyegiputa bazabona
+904,696,2,Uko Egiputa izatakambira Uwiteka igakira
+905,697,1,Abanyegiputa n'Abanyetiyopiya bahanurirwa ko bazajyanwa ho iminyago
+906,698,1,Ibihano by'ibindi bihugu
+907,699,1,Iyerekwa ryo mu kibaya cyo kwerekerwamo
+908,701,1,Ibyago bizaza ku isi
+909,702,1,Imana ni Umukiza w'abarengana
+910,703,1,Amahoro y'abiringira Imana
+911,704,1,Imana ihana ariko ikiza
+912,705,1,Imana iburira Abefurayimu
+913,705,2,Ibuye rikomeza impfuruka
+914,706,1,Abayuda bahanirwa uburyarya
+915,707,1,Kwiringira ab'isi nta mumaro
+916,707,2,Kugarukira Imana ni ko kudukiza
+917,709,1,Umwami ukiranuka
+918,711,1,Ibyago Imana izateza amahanga
+919,712,1,Inzira y'abacunguwe
+920,713,1,Senakeribu atera i Buyuda asuzuguza Hezekiya
+921,714,1,Gusenga kwa Hezekiya
+922,714,2,Yesaya ahanura ibizaba
+923,714,3,Ingabo za Senakeribu zirimbuka
+924,715,1,Hezekiya yongererwa imyaka yo kubaho
+925,716,1,Hezekiya amurikira intumwa z'i Babuloni ubutunzi bwe
+926,717,1,Ijwi ry'urangurura
+927,717,2,Uburyo Imana ikomeye
+928,718,1,Gukomera kw'Imana n'intege nke z'abantu
+929,719,1,Umugaragu w'Uwiteka
+930,720,1,Abisirayeli bazacungurwa
+931,721,1,Idusezeranya Umwuka Wera
+932,721,2,Isuzuguza ibishushanyo bisengwa
+933,722,1,Ibya Kuro n'iby'Abisirayeli uko bazagaruka
+934,723,1,Bisuzuguza ibigirwamana
+935,724,1,Igihano cya Babuloni
+936,725,1,Imana yifuriza Abisirayeli gukizwa
+937,726,1,Iby'Umucunguzi w'Abisirayeli n'uw'ab'isi bose
+938,727,1,Ibihanura imibabaro y'Umugaragu w'Uwiteka
+939,728,1,Uko Abisirayeli bazakizwa ibihano by'ibyaha
+940,729,1,Inkuru nziza y'agakiza ab'isi bose bazabona
+941,729,2,Bahanura urupfu rw'Umugaragu w'Uwiteka
+942,731,1,Imana igarura ubwoko bwayo nk'umugore ucyurwa
+943,732,1,Agakiza k'ubuntu gaturuka ku Mana
+944,735,1,Idini itaryarya ni yo Imana ishima
+945,737,1,Umukiza w'abanyamahanga azaturuka i Siyoni
+946,738,1,Umwaka Uwiteka azagiramo imbabazi
+947,739,1,Uko Abisirayeli bazakizwa
+948,740,1,Uwiteka ahōrera abantu be akabakiza
+949,742,1,Isezerano ry'ijuru rishya n'isi nshya
+950,744,1,Imana ihamagarira Yeremiya ubuhanuzi
+951,744,2,Ibyerekwa byerekana ibihano Imana igiye kubahanisha
+952,745,1,Imana itonganyiriza Abayuda gusubira inyuma kwabo
+953,745,2,Ibyiringiro by'Abayuda ni iby'ubusa
+954,746,1,"Abayuda bifata nk'abamaraya, Imana ibagirira imbabazi"
+955,746,2,Imana yemera kubabarira abihannye
+956,747,1,Imana yinginga Abayuda ngo bihane
+957,747,2,"bumeze nk'umuriro bugatwika kandi nta wabasha kubuzimya, bitewe n'ububi bw'ingeso zanyu."
+958,747,3,Imana iririra Abayuda banze kwihana
+959,748,1,Imana itegekera Abayuda ibihano ibahoye ibyaha byabo
+960,749,1,"Ababisha b'Abayuda bazabatera, bagote Yerusalemu"
+961,749,2,Imana ibwira Abayuda ko ari abagome
+962,750,1,Imana ibasezeranira amahoro nibihana
+963,750,2,Imana ihinyuza idini y'uburyarya. Ibahanurira ibyago
+964,751,1,Imana ihinyuza abavuzi bavura ibyaha babica hejuru
+965,751,2,Yeremiya aririra ibyago bizaba i Yerusalemu
+966,753,1,"Ibigirwamana ni iby'ubusa, Imana Rurema ni yo ikomeye"
+967,754,1,"Imana ihamya Abayuda ubugome, yangira Yeremiya kubasabira"
+968,755,1,"Abayuda bazapfa nabi, igihugu cyabo kizahindūrwa"
+969,755,2,Imana izagarura Abayuda
+970,756,1,Ikimenyetso cy'umushumi wononekaye
+971,757,1,Yeremiya ashinja Abayuda ibyaha by'ubugome
+972,757,2,Yeremiya ashinja abahanuzi b'ibinyoma ibyaha
+973,758,1,Abayuda bahanurirwa ibyago
+974,758,2,Imana isezeranira Yeremiya kumurinda
+975,759,1,"Ibyago bizaza, amahoro n'umunezero bishire"
+976,760,1,Uwizera Imana ameze nk'igiti gitewe hafi y'amazi
+977,760,2,Ibyerekeye kweza isabato
+978,761,1,Ikimenyetso cy'umubumbyi n'ikibumbano cye
+979,762,1,Ikimenyetso cy'ikibumbano kijanjaguritse
+980,763,1,Pashuri umutambyi ashyira Yeremiya mu mbago
+981,764,1,Umwami ahanuza Yeremiya Nebukadinezari yabateye
+982,765,1,Yeremiya ahanura ibizaba ku mwami w'Abayuda
+983,766,1,Yeremiya ahanura iby'uwitwa Shami
+984,767,1,Ikimenyetso cy'imbuto z'umutini nziza n'izindi mbi
+985,768,1,Abayuda bazamara imyaka mirongo irindwi mu Bukaludaya
+986,768,2,Imana izahana amahanga
+987,769,1,Abatambyi n'abahanuzi bashaka kwica Yeremiya.
+988,770,1,Yeremiya agira umwami inama ngo ayoboke Nebukadinezari
+989,771,1,Umuhanuzi Hananiya ahinyuza ibyo Yeremiya ahanuye
+990,772,1,Yeremiya ahanurira Abayuda ko bazatinda
+991,773,1,Yeremiya ategekwa kwandika byose mu gitabo; Imana isezerana kuzakiza Abayuda bagasubira mu gihugu cyabo
+992,774,1,Imana izagirana isezerano rishya n'abantu bayo
+993,775,1,Yeremiya ategekwa kugura umurima muri Anatoti
+994,775,2,Imana isezeranya abantu bayo kuzabagirira imbabazi
+995,776,1,Amahoro azagaruka ubwo ishami rya Dawidi rizumbura
+996,777,1,Nebukadinezari agota i Yerusalemu
+997,777,2,Abayuda banga kureka abaretwa babo
+998,778,1,Bene Rekabu banga kuva ku isezerano rya sekuruza
+999,779,1,Yeremiya yandikisha Baruki amagambo y'ubuhanuzi bwe
+1000,779,2,"Igitabo gisomerwa umwami, aragica aragitwika"
+1001,779,3,Imana itegeka Yeremiya kwandika ikindi gitabo
+1002,780,1,Abakaludaya bava i Yerusalemu bajya kurwana na Farawo
+1003,780,2,Bafata Yeremiya bamushyira mu nzu y'imbohe
+1004,781,1,Ibikomangoma bishyira Yeremiya mu rwobo
+1005,781,2,Ebedimeleki akura Yeremiya mu rwobo
+1006,781,3,Sedekiya agisha Yeremiya inama
+1007,782,1,Yerusalemu ihindūrwa Sedekiya arafatwa
+1008,783,1,Yeremiya atura i Misipa
+1009,783,2,Gedaliya yegurirwa igihugu
+1010,783,3,Gedaliya aburirwa yanga kubyemera
+1011,784,1,Ishimayeli yica Gedaliya n'abandi benshi
+1012,784,2,Yohanani agarura imbohe Ishimayeli yari yacikanye
+1013,785,1,Yohanani agisha Yeremiya inama z'Imana
+1014,786,1,Yeremiya ajyanwa muri Egiputa ku gahato
+1015,787,1,Yeremiya ahanurira Abayuda bari muri Egiputa
+1016,788,1,Yeremiya ahanurira Baruki amahoro
+1017,789,1,Yeremiya ahanurira amahanga ibyago muri Egiputa
+1018,790,1,Ibyago by'Abafilisitiya n'ab'i Tiro
+1019,791,1,Ibyago by'i Mowabu
+1020,792,1,Ibyago by'Abamoni
+1021,792,2,Ibyago bya Edomu
+1022,792,3,Ibyago by'i Damasiko
+1023,792,4,Ibyago by'i Kedari
+1024,792,5,Ibyago bya Elamu
+1025,793,1,Ibyago bizagera kuri Babuloni n'Abakaludaya
+1026,793,2,Abisirayeli bazakizwa
+1027,793,3,Uko i Babuloni hazatsindwa
+1028,794,1,Iherezo ry'i Babuloni
+1029,794,2,Yeremiya yandika ibyo yahanuriye i Babuloni mu gitabo
+1030,795,1,Sedekiya ajyanwa i Babuloni ho imbohe
+1031,795,2,"Nebukadinezari anyaga ibintu byo mu nzu y'Imana, babijyana i Babuloni"
+1032,795,3,Abaturage b'i Buyuda bajyanwa i Babuloni
+1033,801,1,Ezekiyeli yerekwa icyubahiro cy'Imana n'ibizima bine
+1034,802,1,Ezekiyeli atumwa ku Bisirayeli b'abagome
+1035,803,1,Imana imwihanangiriza kuburira abantu
+1036,803,2,Uwiteka agira Ezekiyeli umurinzi
+1037,804,1,Ashushanya i Yerusalemu uko hazagotwa n'abanzi
+1038,805,1,Yerekanisha umusatsi we ibyago bizaba muri Yerusalemu
+1039,808,1,Yerekwa uburyo Imana ifuha
+1040,809,1,Abantu b'Imana bashyirwa ikimenyetso mu ruhanga
+1041,810,1,Ubwiza bw'Imana buva ku rusengero
+1042,810,2,Ezekiyeli yongera kwerekwa bya bizima
+1043,811,1,Imana isezeranya Abisirayeli baciwe ko izababera ubuturo
+1044,812,1,Umuhanuzi abera abantu ikimenyetso
+1045,813,1,Abahanuzi b'ibinyoma bavugwa
+1046,815,1,I Yerusalemu hagereranywa n'umuzabibu
+1047,816,1,I Yerusalemu hagereranywa n'umugore wabaye maraya
+1048,817,1,Umugani w'ibisiga bibiri
+1049,818,1,Umugani w'inzabibu zirura; umuntu azazira ibyaha bye
+1050,819,1,Aborogera Abisirayeli n'i Yerusalemu
+1051,820,1,Ibibutsa ubugome bwa ba sekuruza; ibihanangiriza
+1052,821,1,Ikimenyetso cyo gusuhuza umutima
+1053,823,1,Ubusambanyi bwa Ohola n'ubwa Oholiba
+1054,824,1,I Yerusalemu hagereranywa n'inkono ivuga
+1055,825,1,Imana ihōra amahanga
+1056,826,1,Igihano cy'i Tiro
+1057,828,1,Imana ivuga uburyo umwami w'i Tiro yaguye
+1058,829,1,Igihano cya Egiputa
+1059,831,1,Abashuri bazagwa
+1060,832,1,Aborogera Egiputa
+1061,833,1,Umurimo w'umurinzi wo kuburira abantu
+1062,834,1,Abungeri ba Isirayeli bahanwa
+1063,836,1,Imana isezeranya abantu bayo kubaha umutima mushya
+1064,837,1,Iyerekwa ry'amagufwa yumye
+1065,838,1,Ibya Gogi
+1066,840,1,Iby'urusengero rushya
+1067,847,1,Amazi ava mu rusengero atemba nk'uruzi
+1068,849,1,Imana iha umugisha Daniyeli na bagenzi be
+1069,850,1,"Umwami arota inzozi, abapfumu bananirwa kuzisobanura"
+1070,850,2,Imana ihishurira Daniyeli inzozi z'umwami
+1071,850,3,Daniyeli asobanurira umwami inzozi ze
+1072,851,1,Igishushanyo Umwami Nebukadinezari yakoze
+1073,851,2,Saduraka na Meshaki na Abedenego banga kuramya igishushanyo
+1074,851,3,Ba Saduraka bajugunywa mu itanura ntibashya
+1075,851,4,Umwami ahimbaza Imana ya ba Saduraka
+1076,851,5,Umwami arota inzozi azirotorera Daniyeli
+1077,852,1,Daniyeli asobanurira umwami inzozi ze
+1078,852,2,Iby'inzozi bisohora ku mwami: arahanwa hanyuma arakira
+1079,853,1,Umwami agira ibirori abona intoki zandika ku rusika
+1080,853,2,"Daniyeli asoma ibyanditswe ku rusika, arabisobanura"
+1081,854,1,Daniyeli mu rwobo rw'intare
+1082,855,1,Daniyeli arota inyamaswa enye
+1083,855,2,Daniyeli abona Umukuru nyir'ibihe byose
+1084,855,3,Gusobanura inzozi za Daniyeli
+1085,856,1,Daniyeli yerekwa iby'impfizi y'intama n'isekurume y'ihene
+1086,856,2,Daniyeli asobanurirwa ibyo yeretswe
+1087,857,1,Daniyeli yatura ibyaha by'ubwoko bwabo
+1088,857,2,Iby'ibyumweru mirongo irindwi
+1089,858,1,"Daniyeli abona ubwiza bw'Imana, ararabirana"
+1090,859,1,Intambara z'umwami w'ikusi n'umwami w'ikasikazi n'ibindi
+1091,860,1,Daniyeli yerekwa iby'iminsi y'imperuka
+1092,861,1,Abisirayeli bagereranywa n'umugore wa maraya ucyuwe
+1093,862,1,Abisirayeli bahanirwa ubusambanyi
+1094,862,2,Imana izongera gucyura Abisirayeli
+1095,863,1,Urukundo Imana ikunda Abisirayeli nubwo basambanaga
+1096,864,1,Ibyaha by'Abisirayeli bivugwa
+1097,865,1,Uwiteka abakuraho amaso
+1098,866,1,Gusubiza k'Uwiteka
+1099,873,1,Isezerano ry'uko Abisirayeli bazakizwa
+1100,875,1,Yoweli avuga uko inzige zateye igihugu
+1101,876,1,Inzige azigereranya n'Umunsi w'Uwiteka uzabaho
+1102,878,1,Imana izahana amahanga yarenganyaga Isirayeli
+1103,879,1,Imana izahana amahanga
+1104,881,1,Imana ihana Isirayeli
+1105,885,1,Ibyo Amosi yeretswe
+1106,885,2,Umutambyi Amasiya ahana Amosi
+1107,886,1,Imana ihora Abisirayeli kurenganya abakene
+1108,887,1,Imana isezeranya Abisirayeli umugisha ku iherezo
+1109,888,1,Imana izahana Edomu ibahoye kurenganya Isirayeli
+1110,889,1,"Yona yanga gutumwa, umuyaga ubakubira mu nyanja"
+1111,889,2,Yona amirwa n'urufi
+1112,890,1,Yona asengera mu nda y'urufi
+1113,891,1,Yona yongera gutumwa i Nineve
+1114,892,1,Yona arakazwa n'uko Imana ibabariye i Nineve
+1115,893,1,Imana irakarira Abayuda kuko baramya ibigirwamana
+1116,895,1,Ibyaha by'ibikomangoma n'iby'abahanuzi babo
+1117,896,1,Ahanura ubwami bw'amahoro n'uko abirukanywe bazagarurwa
+1118,897,1,Umutegetsi uzakomoka i Betelehemu
+1119,898,1,Ibyo Imana ishaka ku bantu bayo
+1120,899,1,Uburyo Imana ibyutsa abaguye ikababarira abihannye
+1121,900,1,Iby'i Nineve
+1122,901,1,Imana izatera abanzi b'Abisirayeli
+1123,902,1,Kurimburwa kw'i Nineve
+1124,903,1,Ahanura ibyago bazaterwa n'Abakaludaya
+1125,904,1,Yerekwa ko abakiranutsi babeshwaho no kwizera
+1126,905,1,Isengesho rya Habakuki
+1127,906,1,Imana ihana Abayuda ku bw'ibyaha byabo
+1128,907,1,Bahugurirwa gushaka Uwiteka bicisha bugufi
+1129,908,1,Ubugome bw'i Yerusalemu
+1130,908,2,"Imana izakiza abayo barengana, ibakunze inezerewe"
+1131,909,1,Abayuda bagīrwa inama yo kubaka urusengero
+1132,910,1,Ubwiza bw'urusengero rushya
+1133,911,1,Iyerekwa ry'amafarashi ane
+1134,912,1,Amahembe ane n'abacuzi bane
+1135,912,2,Marayika atumwa kugera i Yerusalemu
+1136,913,1,"Yosuwa umutambyi mukuru, akizwa ibyaha bye"
+1137,914,1,"Uwiteka akirisha Umwuka we Wera, atari abanyamaboko"
+1138,915,1,Iyerekwa ry'umuzingo w'igitabo uguruka
+1139,916,1,"Iyerekwa ry'amagare ane y'intambara, n'irya Shami"
+1140,917,1,Ahinyura kwiyiriza ubusa kwabo k'uburyarya
+1141,918,1,Imana igaruka i Yerusalemu. Hazubakwa habemo amahoro
+1142,919,1,Umwami ajya i Yerusalemu ahetswe n'indogobe
+1143,921,1,Iby'inkoni ebyiri zitwa Buntu na Kunga
+1144,922,1,Ahanura ko Abayuda bazakizwa
+1145,923,1,Iby'isōko yo koza ibyaha
+1146,923,2,Inkota y'Imana ihagurukirizwa umwungeri
+1147,924,1,Umunsi w'Uwiteka
+1148,925,1,Urukundo Imana ikunda Isirayeli
+1149,925,2,Ibyaha by'abatambyi b'Imana
+1150,926,1,Bene Lewi baca mu isezerano Imana yasezeranye na bo
+1151,926,2,Ibyaha by'abantu b'Imana n'ibyaha byo mu ngo
+1152,927,1,Ibihanura kuza kw'Integuza y'Uwiteka
+1153,927,2,Ibyaha by'abantu b'Imana bagira ubugugu ku by'Imana
+1154,927,3,Abantu b'Imana biringirwa
+1155,927,4,Umunsi w'Uwiteka
+1156,928,1,Amazina ya ba sekuruza ba Yesu
+1157,928,2,"Kuvuka kwa Yesu, uko kwagenze"
+1158,929,1,Abanyabwenge baramya Yesu
+1159,929,2,Yosefu ahungira muri Egiputa
+1160,930,1,"Yohana Umubatiza yigisha, abatiza"
+1161,930,2,Kubatizwa kwa Yesu
+1162,931,1,Yesu ageragezwa na Satani
+1163,931,2,Yesu yigishiriza i Kaperinawumu
+1164,931,3,Yesu atora abigishwa be ba mbere
+1165,932,1,Yesu yerekana abahiriwe abo ari bo
+1166,932,2,Yesu ntiyazanywe no gukuraho amategeko
+1167,932,3,Ntukice
+1168,932,4,Ntugasambane
+1169,932,5,Ntukahukane
+1170,932,6,Ntukarahire
+1171,932,7,Ntimukihōrere
+1172,932,8,Nimukunde ababanga
+1173,933,1,Yesu aduhana kutagirira ubuntu kwishimisha
+1174,933,2,Gusenga
+1175,933,3,Yesu aduhana kutiyiriza ubusa ngo twishimishe
+1176,933,4,Ntimukunde iby'isi
+1177,933,5,Ntimukiganyire
+1178,934,1,Ntimukagaye abandi mwiretse
+1179,934,2,Irembo rifunganye
+1180,934,3,Inzu yo ku rutare n'iyo ku musenyi
+1181,935,1,Yesu akiza umubembe
+1182,935,2,Akiza umugaragu w'umutware w'abasirikare
+1183,935,3,Gukurikira Yesu ntibyoroshye
+1184,935,4,Aturisha inyanja
+1185,935,5,Akiza abantu bafite dayimoni
+1186,936,1,"Akiza ikirema gihetswe na bane, amaze kukibabarira ibyaha"
+1187,936,2,Ahamagara Matayo
+1188,936,3,Azura umukobwa wa Yayiro
+1189,936,4,"Ahumūra impumyi ebyiri, akiza abarwayi"
+1190,937,1,Amazina y'intumwa cumi n'ebyiri
+1191,937,2,Uburyo intumwa zizarenganywa
+1192,937,3,Yesu akomeza intumwa ngo zidatinya
+1193,937,4,Kwikorera umusaraba
+1194,938,1,Yohana Umubatiza atuma kuri Yesu
+1195,938,2,Yesu ahanurira ab'i Korazini n'ab'i Betsayida
+1196,938,3,Yesu ahamagara abananiwe n'abaremerewe
+1197,939,1,Yesu asobanura uburyo isabato ikwiriye kuziririzwa
+1198,939,2,Yesu akiza umuntu unyunyutse ukuboko ku munsi w'isabato
+1199,939,3,Yesu akiza umuntu wari ikiragi akaba n'impumyi
+1200,939,4,Yesu yima Abafarisayo ikimenyetso
+1201,939,5,Bene wabo wa Yesu
+1202,940,1,Umugani w'umubibyi
+1203,940,2,Yesu asobanura umugani w'umubibyi
+1204,940,3,Umugani w'urukungu mu masaka
+1205,940,4,Umugani w'akabuto ka sinapi n'uw'umusemburo
+1206,940,5,Umugani w'izahabu n'imaragarita n'urushundura
+1207,940,6,Yesu asuzugurwa n'abo mu gihugu cy'iwabo
+1208,941,1,Uko Herode yishe Yohana Umubatiza
+1209,941,2,Yesu ahaza abantu ibihumbi bitanu
+1210,941,3,Yesu agendesha amaguru hejuru y'amazi
+1211,942,1,Yesu ahinyura imyigishirize y'Abafarisayo
+1212,942,2,Yesu akiza umukobwa w'Umunyakanānikazi
+1213,942,3,"Yesu akiza abarwayi, ahaza abantu ibihumbi bine"
+1214,943,1,Yesu yima Abayuda ikimenyetso
+1215,943,2,Petero ahamya ko Yesu ari Kristo
+1216,943,3,Yesu asobanura iby'inzira y'umusaraba
+1217,944,1,Yesu ahinduka ishusho irabagirana
+1218,944,2,Yesu akiza umwana urwaye igicuri
+1219,944,3,Yesu avuga iby'urupfu rwe
+1220,945,1,Ubukuru bushimwa mu bwami bwo mu ijuru ubwo ari bwo
+1221,945,2,Uko itorero rikwiriye kugenza uwanze guhanwa
+1222,945,3,Umugani w'abantu babiri barimo umwenda
+1223,946,1,Ibyo gusenda umugore
+1224,946,2,Yesu yakira abana bato
+1225,946,3,Iby'umusore w'umutunzi
+1226,946,4,Iby'abarekeshejwe ibyabo no gukurikira Yesu
+1227,947,1,Umugani w'abahinzi bo mu ruzabibu
+1228,947,2,Yesu avuga iby'urupfu rwe
+1229,947,3,Ubukuru bwo mu bwami bw'Imana
+1230,947,4,Yesu ahumūra impumyi ebyiri
+1231,948,1,Yesu ajya i Yerusalemu ahetswe n'indogobe
+1232,948,2,Yesu yirukana abaguriraga mu rusengero
+1233,948,3,Yesu avuma igiti cyitwa umutini
+1234,948,4,Abatambyi babaza Yesu aho yakuye ububasha bwe
+1235,948,5,Umugani w'abahinzi bimye shebuja imyaka ye
+1236,949,1,Umugani w'ubukwe bw'umwana w'umwami
+1237,949,2,Abafarisayo bamugerageresha iby'umusoro
+1238,949,3,Yesu asubiza Abasadukayo ibyo kuzuka
+1239,949,4,Itegeko rirusha ayandi gukomera
+1240,949,5,Yesu ni Umwana wa Dawidi
+1241,950,1,Yesu abuza abigishwa gukurikiza imigenzereze y'Abafarisayo
+1242,950,2,Yesu aburira Abafarisayo n'abanditsi
+1243,951,1,"Ibyerekeye kurimbuka kwa Yerusalemu, no kugaruka kwa Yesu"
+1244,951,2,Uko bizamera ubwo Yesu azagaruka
+1245,951,3,Umugani w'abagaragu babiri
+1246,952,1,Umugani w'abakobwa cumi
+1247,952,2,Umugani w'abagaragu bahawe italanto
+1248,952,3,Gucirwaho iteka
+1249,953,1,Bajya inama yo kwica Yesu
+1250,953,2,Yesu asīgirwa amavuta mu nzu ya Simoni umubembe
+1251,953,3,Yuda agurisha Yesu
+1252,953,4,Yesu n'abigishwa be basangira ibya Pasika
+1253,953,5,Yesu atanga ifunguro ryera
+1254,953,6,Yesu ahanura ko Petero ari bumwihakane gatatu
+1255,953,7,Yesu asengana umubabaro ari i Getsemani
+1256,953,8,Bafata Yesu
+1257,953,9,Abatambyi bacira Yesu urubanza rwo gupfa
+1258,953,10,Petero yihakana Yesu
+1259,954,1,Bashyīra Yesu Pilato
+1260,954,2,Yuda yiyahura
+1261,954,3,Pilato acira Yesu urubanza
+1262,954,4,Abasirikare bashinyagurira Yesu
+1263,954,5,Yesu abambwa
+1264,954,6,Urupfu rwa Yesu
+1265,954,7,Ibitangaza byabaye Yesu amaze gutanga
+1266,954,8,Yosefu ahamba Yesu
+1267,954,9,Barinda imva ya Yesu
+1268,955,1,Kuzuka kwa Yesu
+1269,955,2,Yesu atuma abigishwa be mu mahanga yose
+1270,956,1,Yohana Umubatiza
+1271,956,2,Yesu abatizwa na Yohana; ageragezwa na Satani
+1272,956,3,Yesu avuga ubutumwa bwiza; ahamagara abigishwa
+1273,956,4,Akiza umuntu utewe na dayimoni
+1274,956,5,Akiza nyirabukwe wa Simoni n'abandi benshi
+1275,956,6,Akiza umubembe
+1276,957,1,Yesu akiza ikirema gihetswe n'abantu bane
+1277,957,2,Yesu ahamagara Lewi umukoresha w'ikoro
+1278,957,3,Yesu yigisha iby'isabato
+1279,958,1,Yesu akiza umuntu unyunyutse ukuboko n'abandi benshi
+1280,958,2,Yesu atoranya intumwa cumi n'ebyiri
+1281,958,3,Ibyo gutuka Umwuka Wera
+1282,958,4,Bene wabo wa Yesu
+1283,959,1,Umugani w'umubibyi
+1284,959,2,Iyindi migani
+1285,959,3,Aturisha inkubi y'umuyaga wo mu nyanja
+1286,960,1,Yesu yirukana abadayimoni benshi mu muntu
+1287,960,2,Yesu akiza umugore wari umaze imyaka cumi n'ibiri ari mu mugongo
+1288,960,3,Azura umwana wa Yayiro
+1289,961,1,"Yesu ari i Nazareti, atuma intumwa"
+1290,961,2,Herode yica Yohana Umubatiza
+1291,961,3,Yesu ahaza abantu ibihumbi bitanu
+1292,961,4,Yesu agendesha amaguru hejuru y'amazi
+1293,961,5,Akiza abarwayi benshi
+1294,962,1,Yesu ahinyura inyigisho y'Abafarisayo
+1295,962,2,Akiza umukobwa w'umugore w'Umugirikikazi
+1296,962,3,Yesu akiza igipfamatwi kandi kidedemanga
+1297,963,1,Yesu ahaza abantu ibihumbi bine
+1298,963,2,Umusemburo w'Abafarisayo ni wo nyigisho yabo
+1299,963,3,Yesu ahumura impumyi
+1300,963,4,Petero ahamya yuko Yesu ari Kristo
+1301,963,5,Yesu asobanura iby'inzira y'umusaraba
+1302,964,1,"Yesu arabagirana, Mose na Eliya babonekana na we"
+1303,964,2,Akiza umuhungu urwaye igicuri
+1304,964,3,Ahana abigishwa be kutagira amakimbirane
+1305,964,4,Utari umwanzi wa Yesu aba ari mu ruhande rwe
+1306,964,5,Ahana abagusha abandi
+1307,965,1,Ibyo gusenda abagore
+1308,965,2,Yesu yakīra abana bato
+1309,965,3,Iby'umusore w'umutunzi
+1310,965,4,Yesu avuga iby'urupfu rwe
+1311,965,5,Ubukuru bwo mu bwami bw'Imana
+1312,965,6,Yesu akiza impumyi yitwa Barutimayo
+1313,966,1,Yesu ajya i Yerusalemu ahetswe n'indogobe
+1314,966,2,Yesu avuma igiti cyitwa umutini
+1315,966,3,Iby'umutini n'ibyo gusenga no kubabarirana
+1316,966,4,Abatambyi bakuru bamubaza aho yakuye ububasha bwe
+1317,967,1,Umugani w'abahinzi bimye shebuja imyaka ye
+1318,967,2,Abafarisayo bamugerageresha iby'umusoro
+1319,967,3,Yesu asubiza Abasadukayo ibyo kuzuka
+1320,967,4,Itegeko rirusha ayandi gukomera
+1321,967,5,Umwana wa Dawidi
+1322,967,6,Yesu agaragaza ibyaha by'abanditsi
+1323,967,7,Umupfakazi wari umukene
+1324,968,1,Ibimenyetso byerekana kurimbuka kw'i Yerusalemu no kugaruka kwa Yesu
+1325,968,2,Ibyo kugaruka k'Umwana w'umuntu
+1326,969,1,Bajya inama yo kwica Yesu
+1327,969,2,Yesu asīgirwa amavuta mu nzu ya Simoni w'umubembe
+1328,969,3,Yuda agambanira Yesu
+1329,969,4,Yesu n'abigishwa be basangira ibya Pasika
+1330,969,5,Yesu atanga Ifunguro ryera
+1331,969,6,Yesu ahanura ko Petero ari bumwihakane gatatu
+1332,969,7,Yesu asengana umubabaro ari i Getsemani
+1333,969,8,Bafata Yesu
+1334,969,9,Abatambyi bacira Yesu urubanza rwo gupfa
+1335,969,10,Petero yihakana Yesu
+1336,970,1,Bashyira Yesu Pilato
+1337,970,2,Pilato acira Yesu urubanza rwo kubambwa
+1338,970,3,Yesu abambwa
+1339,970,4,Urupfu rwa Yesu
+1340,970,5,Bahamba Yesu
+1341,971,1,Kuzuka kwa Yesu
+1342,971,2,Yesu abonekera abigishwa be
+1343,972,1,Marayika ahanurira Zakariya ko azabyara Yohana
+1344,972,2,Gaburiyeli abwira Mariya yuko azabyara Yesu
+1345,972,3,"Mariya ajya gusura Elizabeti, ashima Imana"
+1346,972,4,Kuvuka kwa Yohana Umubatiza
+1347,972,5,Indirimbo ya Zakariya
+1348,973,1,Kuvuka kwa Yesu
+1349,973,2,Marayika abwira abungeri ko Yesu avutse
+1350,973,3,Bakeba Yesu bamumurikira Imana
+1351,973,4,Yesu yisigarira i Yerusalemu
+1352,974,1,Yohana Umubatiza atangira kwigisha no kubatiza
+1353,974,2,Yohana ahugura abashaka kwihana
+1354,974,3,Yohana abwira abantu ibya Yesu
+1355,974,4,Yesu abatizwa
+1356,974,5,Amazina ya ba sekuruza wa Yesu
+1357,975,1,Yesu ageragezwa na Satani
+1358,975,2,Ab'i Nazareti bashaka kwica Yesu
+1359,975,3,Yesu akiza umuntu utewe na dayimoni
+1360,975,4,Yesu akiza nyirabukwe wa Simoni n'abandi benshi
+1361,976,1,Yesu arobesha ifi nyinshi
+1362,976,2,Yesu akiza umubembe
+1363,976,3,Yesu akiza ikirema
+1364,976,4,Yesu ahamagara Lewi umukoresha w'ikoro
+1365,977,1,Yesu ni Umwami w'isabato
+1366,977,2,Akiza umuntu unyunyutse ukuboko ku munsi w'isabato
+1367,977,3,Atoranya intumwa cumi n'ebyiri
+1368,977,4,Yesu yerekana abahiriwe abo ari bo
+1369,977,5,Dutegetswe gukunda n'abanzi bacu
+1370,977,6,Ntimukagaye abandi mwiretse
+1371,978,1,Yesu akiza umugaragu w'umutware w'abasirikare
+1372,978,2,Azura umwana w'umupfakazi
+1373,978,3,Yohana Umubatiza atuma kuri Yesu
+1374,978,4,Yesu ahamya Yohana Umubatiza
+1375,978,5,Umugore w'umunyabyaha asīga Yesu ku birenge
+1376,979,1,Abagore bafashaga Yesu
+1377,979,2,Umugani w'umubibyi
+1378,979,3,Umugani w'itabaza
+1379,979,4,Bene wabo wa Yesu
+1380,979,5,Yesu aturisha inyanja
+1381,979,6,Yirukana abadayimoni benshi mu muntu
+1382,979,7,Yesu akiza umugore; azura umwana wa Yayiro
+1383,980,1,Yesu atuma abigishwa be cumi na babiri kwigisha
+1384,980,2,Ibya Herode
+1385,980,3,Yesu ahāza abantu ibihumbi bitanu
+1386,980,4,Petero ahamya yuko Yesu ari Kristo
+1387,980,5,Yesu asobanura iby'inzira y'umusaraba
+1388,980,6,Yesu arabagirana; Mose na Eliya babonekana na we
+1389,980,7,Yesu akiza umwana igicuri cyananiye abigishwa be
+1390,980,8,Abigishwa bagira amakimbirane
+1391,980,9,Utari umwanzi wa Yesu aba ari mu ruhande rwe
+1392,980,10,Abasamariya bima Yesu icumbi
+1393,980,11,Gukurikira Yesu ntibyoroshye
+1394,981,1,Yesu atuma abigishwa mirongo irindwi
+1395,981,2,Intumwa mirongo irindwi zigaruka
+1396,981,3,Umugani w'Umusamariya w'umunyambabazi
+1397,981,4,Ibya Marita na Mariya
+1398,982,1,Yesu yigisha abigishwa be gusenga
+1399,982,2,Abanzi ba Yesu bavuga ko umurimo w'Umwuka Wera ari uwa Satani
+1400,982,3,Yesu yima Abayuda ikimenyetso
+1401,982,4,Itabaza ry'umubiri iryo ari ryo
+1402,982,5,Yesu ahana Abafarisayo n'abigishamategeko
+1403,983,1,Twe gutinya abantu
+1404,983,2,Umutunzi w'umupfapfa
+1405,983,3,Ntimwiganyire
+1406,983,4,Tube maso dutegereje kugaruka k'Umwami Yesu
+1407,983,5,Abantu bazatandukana ku bwa Yesu
+1408,983,6,Abaza abantu igituma batamenya iby'igihe barimo
+1409,984,1,Abanyagalilaya bishwe na Pilato
+1410,984,2,Umugani w'umutini warumbye
+1411,984,3,Umugore uhetamye akizwa na Yesu
+1412,984,4,Umugani w'akabuto ka sinapi
+1413,984,5,Babaza Yesu abakizwa uko bazangana
+1414,984,6,Yesu aririra i Yerusalemu
+1415,985,1,Yesu akiza umuntu urwaye urushwima
+1416,985,2,Uwishyira hejuru azacishwa bugufi
+1417,985,3,Umugani w'abararikwa babi
+1418,985,4,Uburyo gukurikira Yesu biruhije
+1419,986,1,Intama yazimiye n'igice cy'ifeza cyabuze
+1420,986,2,Umugani w'umwana w'ikirara
+1421,987,1,Yesu acira abantu umugani w'igisonga kibi
+1422,987,2,Umugani w'umutunzi n'umukene
+1423,988,1,Ibisitaza abantu
+1424,988,2,Ibyo kwizera
+1425,988,3,Yesu akiza ababembe cumi
+1426,988,4,Ibizaba mu gihe cy'imperuka
+1427,989,1,Umugani w'umucamanza n'umupfakazi wamutitirije
+1428,989,2,Umugani w'Umufarisayo n'umukoresha w'ikoro
+1429,989,3,Yesu yakira abana bato
+1430,989,4,Umutware ananirwa kwinjira mu bwami bw'Imana
+1431,989,5,Yesu avuga iby'urupfu rwe
+1432,989,6,Yesu ahumura impumyi
+1433,990,1,Ibya Zakayo
+1434,990,2,Umugani wa mina cumi
+1435,990,3,Yesu ajya i Yerusalemu ahetswe n'indogobe
+1436,990,4,Yesu aririra Yerusalemu
+1437,990,5,Yirukana abaguriraga mu rusengero
+1438,991,1,Abatambyi bakuru babaza Yesu aho yakuye ubutware bwe
+1439,991,2,Umugani w'abahinzi b'abagome
+1440,991,3,Abafarisayo bamugerageresha iby'umusoro
+1441,991,4,Yesu asubiza Abasadukayo ibyo kuzuka
+1442,991,5,Umwana wa Dawidi
+1443,991,6,Yesu ababwira kwirinda abanditsi
+1444,992,1,Umupfakazi wari umukene
+1445,992,2,Kurimbuka kwa Yerusalemu no kugaruka kwa Yesu
+1446,992,3,Kurimbuka kwa Yerusalemu
+1447,993,1,Yuda agambanira Yesu
+1448,993,2,Yesu n'abigishwa basangira ibya Pasika
+1449,993,3,Abigishwa bajya impaka z'ubukuru
+1450,993,4,Yesu avuga ko Petero agiye kumwihakana
+1451,993,5,Yesu asengana umubabaro
+1452,993,6,Bafata Yesu
+1453,993,7,Petero yihakana Yesu
+1454,993,8,Bashinyagurira Yesu
+1455,994,1,Yesu ashyikirizwa Pilato
+1456,994,2,Pilato yohereza Yesu kwa Herode
+1457,994,3,Pilato acira Yesu urubanza
+1458,994,4,Abagore b'i Yerusalemu baborogera Yesu
+1459,994,5,Babamba Yesu bamushinyagurira
+1460,994,6,Umugome umwe yihana
+1461,994,7,Urupfu rwa Yesu
+1462,994,8,Yosefu ahamba Yesu
+1463,995,1,Kuzuka kwa Yesu
+1464,995,2,Yesu yiyereka abigishwa babiri bari mu nzira ijya Emawusi
+1465,995,3,Yesu yiyereka abigishwa be
+1466,995,4,Yesu asezera ku bigishwa be
+1467,995,5,Yesu ajya mu ijuru
+1468,996,1,Yesu Kristo ari we Jambo ry'Imana ahinduka umuntu
+1469,996,2,Abayuda basobanuza Yohana Umubatiza uwo ari we
+1470,996,3,Yohana yita Yesu Umwana w'intama w'Imana
+1471,996,4,Andereya na Simoni bakurikira Yesu
+1472,996,5,Filipo na Natanayeli bakurikira Yesu
+1473,997,1,Ubukwe bw'i Kana
+1474,997,2,Yesu ahumanura urusengero
+1475,998,1,Ibya Nikodemo
+1476,998,2,Yohana yongera guhamya Yesu
+1477,999,1,Yesu avugana n'Umusamariyakazi
+1478,999,2,Yesu akiza umuhungu w'umutware
+1479,1000,1,Yesu akiza umuntu umaze imyaka mirongo itatu n'umunani amugaye
+1480,1000,2,Yesu ahamya ko ubutware bwe buva ku Mana
+1481,1000,3,Ibihamya Yesu
+1482,1001,1,Yesu ahaza abantu ibihumbi bitanu
+1483,1001,2,Yesu agendesha amaguru hejuru y'inyanja
+1484,1001,3,Iby'umutsima w'ubugingo
+1485,1002,1,Bene se wa Yesu ntibamwizera
+1486,1002,2,Yesu ajya i Yerusalemu mu minsi mikuru y'Ingando
+1487,1002,3,"Abafarisayo bapfa Yesu, batuma abasirikare kumufata"
+1488,1002,4,Imigezi y'amazi y'ubugingo
+1489,1002,5,Nikodemo avugira Yesu imbere y'Abafarisayo
+1490,1003,1,Umugore wafashwe asambana
+1491,1003,2,Yesu ni umucyo w'isi
+1492,1003,3,Ahanurira abantu ko bazapfana ibyaha
+1493,1003,4,Abana ba Aburahamu nyakuri
+1494,1004,1,Yesu akiza uwavutse ari impumyi
+1495,1005,1,Umwungeri mwiza
+1496,1005,2,"Yesu ahamya ko ari umwe na Se, Abayuda bashaka kumwica"
+1497,1006,1,Yesu azura Lazaro
+1498,1006,2,Abayuda bajya inama yo kwica Yesu
+1499,1007,1,Yesu asīgwa amavuta na Mariya
+1500,1007,2,Yesu ajya i Yerusalemu ahetswe n'indogobe
+1501,1007,3,Abagiriki bashaka kureba Yesu
+1502,1008,1,Yesu yoza ibirenge by'abigishwa be
+1503,1008,2,Yuda Isikariyota ava mu bandi
+1504,1008,3,Itegeko rishya ryo gukundana
+1505,1008,4,Yesu avuga ko Petero ari bumwihakane
+1506,1009,1,Yesu ni inzira n'ukuri n'ubugingo
+1507,1009,2,Yesu abasezeranya kuboherereza Umwuka Wera
+1508,1009,3,Yesu asezera ku bigishwa be
+1509,1010,1,Yesu acira abigishwa umugani w'umuzabibu n'amashami yawo
+1510,1010,2,Uko ab'isi banga Yesu kandi bakanga n'abe
+1511,1011,1,Yesu abwira abigishwa yuko bazarenganywa
+1512,1012,1,Yesu asabira abigishwa be n'abandi bose bazamwizera
+1513,1013,1,Bafata Yesu
+1514,1013,2,"Yesu aregerwa imbere ya Kayafa, Petero amwihakana gatatu"
+1515,1013,3,Yesu bamujyana kwa Pilato
+1516,1014,1,Pilato acira Yesu urubanza
+1517,1014,2,Babamba Yesu
+1518,1014,3,Urupfu rwa Yesu
+1519,1014,4,Yosefu na Nikodemo bahamba Yesu
+1520,1015,1,Kuzuka kwa Yesu
+1521,1015,2,Yesu yiyereka Mariya Magadalena
+1522,1015,3,Yesu yiyereka abigishwa be Toma adahari
+1523,1015,4,Yesu yongera kwiyereka abigishwa be Toma ahari
+1524,1016,1,Yesu yiyereka abigishwa be ku Nyanja ya Tiberiya
+1525,1016,2,Yesu abaza Petero gatatu ko amukunda
+1526,1017,1,"Yesu azamurwa mu ijuru, abigishwa basubira i Yerusalemu"
+1527,1017,2,Matiyasi atoranywa gusubira mu mwanya wa Yuda
+1528,1018,1,Uko Umwuka Wera yamanukiye intumwa
+1529,1018,2,Petero abasobanurira ibyabaye abemeza ibya Yesu
+1530,1018,3,Abantu ibihumbi bitatu bahindukirira Imana
+1531,1018,4,Uko Abakristo ba mbere basangiraga ibyabo
+1532,1019,1,Petero na Yohana bakiriza ikirema ku irembo ry'urusengero
+1533,1019,2,Petero yigisha abateranijwe no kureba uwakijijwe
+1534,1020,1,Abatambyi bafata Petero na Yohana
+1535,1020,2,Babura uko babahana babarekura
+1536,1020,3,Ab'Itorero babyumvise basaba Imana kubaha gushira amanga
+1537,1020,4,Uko Abakristo ba mbere basangiraga ibyabo
+1538,1021,1,Ibya Ananiya na Safira
+1539,1021,2,Intumwa zikora ibitangaza byinshi
+1540,1021,3,"Intumwa zishyirwa mu nzu y'imbohe, marayika azikuramo"
+1541,1021,4,"Bongera gufata intumwa, bazihana"
+1542,1022,1,Abadiyakoni ba mbere
+1543,1022,2,Abayuda bafata Sitefano bamurega ibinyoma
+1544,1023,1,Sitefano yiregura
+1545,1023,2,Bicisha Sitefano amabuye
+1546,1024,1,"Abakristo bararenganywa, baratatana"
+1547,1024,2,Filipo ajya i Samariya
+1548,1024,3,Ibya Simoni umukonikoni
+1549,1024,4,Umunyetiyopiya w'inkone yizera Yesu
+1550,1025,1,Yesu abonekera Sawuli mu nzira ijya i Damasiko
+1551,1025,2,Ananiya abatiza Sawuli
+1552,1025,3,Petero akiza Ayineya
+1553,1025,4,Petero azura Tabita
+1554,1026,1,Marayika abonekera Koruneliyo
+1555,1026,2,Ibyo Petero yeretswe
+1556,1026,3,Petero ajya kwa Koruneliyo
+1557,1027,1,Petero yiregura ku Bakristo b'Abayuda
+1558,1027,2,Ubutumwa bwiza bugera muri Antiyokiya
+1559,1028,1,"Herode ashaka kwica Petero, marayika aramukiza"
+1560,1028,2,Urupfu rwa Herode
+1561,1029,1,Urugendo rwa mbere rwa Pawulo rwo kuvuga ubutumwa
+1562,1029,2,Ibyabaye i Kupuro bya Eluma w'umukonikoni
+1563,1029,3,Pawulo yigisha muri Antiyokiya y'i Pisidiya
+1564,1029,4,"Abayuda banga agakiza, Pawulo ahindukirira abanyamahanga"
+1565,1030,1,Abo muri Ikoniyo birukana intumwa
+1566,1030,2,Pawulo akiriza ikirema i Lusitira
+1567,1030,3,Batera Pawulo amabuye
+1568,1031,1,Impaka zivuye ku byo gukebwa
+1569,1031,2,Inama yabereye Yerusalemu
+1570,1031,3,Urwandiko Itorero ryandikiye abanyamahanga
+1571,1031,4,Bajyana urwandiko muri Antiyokiya
+1572,1031,5,Urugendo rwa kabiri rwa Pawulo
+1573,1032,1,Ibya Timoteyo
+1574,1032,2,Pawulo ahamagarwa kujya i Makedoniya
+1575,1032,3,Umukobwa utewe na dayimoni akizwa
+1576,1033,1,Abayuda birukana Pawulo i Tesalonike
+1577,1033,2,Ab'i Beroya na bo babirukana
+1578,1033,3,Pawulo yigisha muri Atenayi
+1579,1034,1,"Pawulo ajya i Korinto, Umwami Yesu amubonekerayo"
+1580,1034,2,Abayuda barega Pawulo kuri Galiyo
+1581,1034,3,Pawulo asubira muri Antiyokiya
+1582,1034,4,Urugendo rwa gatatu rwa Pawulo
+1583,1034,5,Apolo yigisha muri Efeso n'i Korinto
+1584,1035,1,Abigishwa ba Yohana Umubatiza buzura Umwuka Wera
+1585,1035,2,Ijambo ry'Imana rigira ububasha muri Efeso
+1586,1035,3,Abacuzi bo muri Efeso barwanya iby'Imana
+1587,1036,1,Pawulo ajya i Bugiriki n'i Tirowa
+1588,1036,2,Pawulo azura Utuko
+1589,1036,3,Pawulo asezera ku bakuru bo mu Efeso
+1590,1037,1,Abigishwa bashaka kubuza Pawulo kujya i Yerusalemu
+1591,1037,2,Pawulo agaragaza ko atagaye amategeko ya Mose
+1592,1037,3,Abasirikare b'Abaroma bakiza Pawulo Abayuda
+1593,1037,4,Pawulo yiregura imbere y'abashakaga kumwica
+1594,1038,1,Abayuda batera hejuru ngo Pawulo yicwe
+1595,1039,1,Pawulo yiregura imbere y'abanyarukiko
+1596,1039,2,Abayuda bahigira kwica Pawulo
+1597,1039,3,Umutware w'ingabo yohereza Pawulo i Kayisariya
+1598,1040,1,Abayuda baregera Pawulo imbere ya Feliki
+1599,1041,1,Abayuda baregera Pawulo imbere ya Fesito
+1600,1041,2,Fesito abwira Umwami Agiripa ibya Pawulo
+1601,1042,1,Pawulo yiregura imbere ya Agiripa
+1602,1042,2,Fesito avuze ko asaze Pawulo agerageza kwemeza Agiripa
+1603,1043,1,Bajyana Pawulo mu nkuge kugira ngo bajye muri Italiya
+1604,1043,2,"Inkuge irengerwa, bose bakira"
+1605,1044,1,Incira iruma Pawulo ntiyagira icyo aba
+1606,1044,2,Pawulo akiza se w'umutware w'i Melita
+1607,1044,3,Bamaze kwambuka bagera i Roma
+1608,1044,4,Pawulo yigisha Abayuda b'i Roma
+1609,1045,1,Ubuhenebere bwatewe no kwimura Imana
+1610,1046,1,Uburyo Imana itarobanura ku butoni
+1611,1046,2,Umuyuda nyakuri uwo ari we
+1612,1047,1,Amahirwe Abayuda barusha abandi
+1613,1047,2,Urutabi ibyaha bifite ku bantu
+1614,1047,3,Gukiranuka guheshwa no kwizera Yesu Kristo
+1615,1048,1,Aburahamu atsindishirizwa no kwizera
+1616,1049,1,Amahirwe azanwa no gutsindishirizwa no kwizera
+1617,1049,2,Yesu yaturokoye iteka ryazanywe n'igicumuro cya Adamu
+1618,1050,1,Ubuntu ntibuduha uburenganzira bwo gukora ibyaha
+1619,1051,1,Uko amategeko atwara umuntu akiriho
+1620,1051,2,Intambara y'umutima uhana na kamere y'ibyaha
+1621,1052,1,Imibereho mishya y'abari muri Kristo Yesu
+1622,1052,2,Ubwo Imana iri mu ruhande rwacu umubisha wacu ni nde?
+1623,1053,1,Pawulo aterwa agahinda no kutizera kw'Abisirayeli
+1624,1054,1,Abayuda bīvutsa gukiranuka kw'Imana
+1625,1055,1,Amaherezo y'Abisirayeli
+1626,1055,2,Ishimwe rikwiriye Nyir'ubumenyi ukeshwa byose
+1627,1056,1,Imirimo ikwiriye imibereho ya Gikristo
+1628,1057,1,Ibyo kugandukira abategeka
+1629,1057,2,Ibyo gukundana
+1630,1057,3,Kuba maso
+1631,1058,1,Kudacirirana imanza
+1632,1059,1,Yesu ni we cyitegererezo cyacu cyo kutinezeza
+1633,1059,2,Umurimo wa Pawulo n'inama ze
+1634,1060,1,Intashyo
+1635,1061,1,Ishimwe Pawulo ashimira Itorero ry'i Korinto
+1636,1061,2,Pawulo ahana Itorero ry'i Korinto kutirema ibice
+1637,1061,3,Uburyo ubwenge bw'Imana bunyuranye n'ubw'isi
+1638,1062,1,Icyo Pawulo yari agambiriye ubwo yigishaga ab'i Korinto
+1639,1063,1,Kamere y'Abakorinto ibavutsa kwigishwa ibikomeye
+1640,1064,1,Inshingano y'ibisonga bya Kristo bikiranuka
+1641,1064,2,Icyubahiro cy'Abakorinto n'agaciro gake k'intumwa
+1642,1065,1,Ubugoryi bukomeye bw'Abakorinto
+1643,1065,2,Ibyo kwitandukanya n'Abakristo gito
+1644,1066,1,Abakristo bahwiturirwa kutaburanira ku b'isi
+1645,1066,2,Imibiri yacu ni ingingo za Kristo
+1646,1067,1,Ibyerekeye ishyingirwa
+1647,1068,1,Ibyerekeye inyama zaterekerejwe ibishushanyo bisengwa
+1648,1069,1,Umudendezo w'ababwirizabutumwa
+1649,1069,2,Pawulo yifatanya n'abantu batari bamwe ngo abone uko abakiza
+1650,1070,1,Abisirayeli batubereye akabarore ko kuturinda gukora ibibi
+1651,1070,2,Ibyerekeye gusenga ibishushanyo
+1652,1070,3,Umudendezo n'urukundo bya Gikristo
+1653,1071,1,Uko abizera bakwiriye kwifata bari mu materaniro
+1654,1071,2,Ibidakwiriye gukorwa mu Ifunguro ryera
+1655,1072,1,Uko impano z'Umwuka zitandukanye
+1656,1072,2,Uburyo ingingo zitari zimwe zirema umubiri umwe
+1657,1073,1,Urukundo ruhebuje byose kuba ingenzi
+1658,1074,1,Uburyo impano y'ubuhanuzi irusha iy'indimi kuba ingenzi
+1659,1074,2,Gahunda ikwiriye kuba mu materaniro
+1660,1075,1,"Pawulo ahugura Abakorinto, abemeza iby'umuzuko"
+1661,1076,1,Ibyo gusonzoranyiriza abera impiya
+1662,1076,2,Inama za Pawulo n'intashyo ze
+1663,1077,1,Pawulo ashimira Imana ku bwo kurokorwa ibyago n'urupfu
+1664,1077,2,Pawulo yiregura ibyerekeye iby'ingeso ze
+1665,1077,3,Iby'imigambi Pawulo yari afite yo gusūra Abakorinto
+1666,1080,1,Ibya Yesu Kristo ni byo byonyine Pawulo abwiriza
+1667,1080,2,Imibabaro iboneka mu kubaho kw'intumwa
+1668,1082,1,Ibyo kutifatanya n'abatizera
+1669,1083,1,Ibyo kuza kwa Tito n'agahinda ko mu buryo bw'Imana
+1670,1084,1,Iby'umurimo w'ubuntu wo gufasha Abakristo b'abakene
+1671,1086,1,Pawulo agaragaza ingero z'umurimo we mu by'Imana
+1672,1087,1,Intumwa z'ibinyoma
+1673,1087,2,Icyo Pawulo arusha intumwa z'ibinyoma
+1674,1088,1,Pawulo yiratana ibyo yeretswe
+1675,1088,2,Pawulo aburira Abakorinto ngo batazabaho umugayo
+1676,1090,1,Kunamuka kw'Abagalatiya
+1677,1090,2,Pawulo ahamya ko ubutumwa yahawe atari ubw'abantu
+1678,1091,1,Uburyarya bwa Petero burema ibice mu Itorero
+1679,1092,1,Amategeko ni umushorera utugeza kuri Kristo
+1680,1093,1,Ubutumwa bwiza bwatubātuye mu mategeko
+1681,1093,2,Sara na Hagari bari ibyitegererezo by'amasezerano abiri
+1682,1094,1,Abagalatiya bahugurirwa gukomeza umudendezo wa Gikristo
+1683,1094,2,Imirimo ya kamere n'imbuto z'Umwuka
+1684,1096,1,Imigisha y'Imana ibonerwa muri Yesu Kristo
+1685,1097,1,Gukizwa n'ubuntu
+1686,1097,2,Abanyamahanga n'Abayuda ni bamwe muri Kristo
+1687,1098,1,Ubwiru bw'Imana bwo gukiza abanyamahanga
+1688,1098,2,Pawulo asabira Abefeso
+1689,1099,1,Ubumwe bwo kwizera
+1690,1099,2,Kwera kuzanwa na Kristo ku bapagani bahenebereye
+1691,1100,1,Uko abagabo n'abagore bakwiriye kumererana
+1692,1101,1,Inshingano y'ab'urugo
+1693,1101,2,Uburyo bwo gutwara intwaro z'Imana
+1694,1102,1,Urukundo Pawulo akunda Abafilipi
+1695,1102,2,Pawulo abihanangiririza ngo bagire ubumwe bwa kivandimwe
+1696,1103,1,Pawulo atuma Timoteyo na Epafuradito ku Bafilipi
+1697,1104,1,Imbuzi zerekeye intumwa z'ibinyoma
+1698,1104,2,Guhomba iby'isi ku bwo gutunga Kristo
+1699,1104,3,Abanzi b'umusaraba wa Kristo
+1700,1105,1,Ishimwe Pawulo ashimira Abafilipi
+1701,1106,1,Pawulo ashimira Imana kwizera n'urukundo by'Abakolosayi
+1702,1106,2,Yesu Umukiza wacu ni we Muremyi wa byose
+1703,1106,3,Umurimo no kurwana bya Pawulo mu busonga bwe
+1704,1107,1,Imbuzi ku byerekeye inyigisho z'ibinyoma
+1705,1108,1,Ibyo kugira ukubaho gutunganye n'urukundo rwa kivandimwe
+1706,1108,2,Inshingano y'ab'urugo
+1707,1109,1,Intashyo
+1708,1110,1,Imbuto z'ubutumwa bwageze i Tesalonike
+1709,1111,1,Intumwa zibwiriza ubutumwa bwiza i Tesalonike
+1710,1112,1,Timoteyo atumwa i Tesalonike
+1711,1113,1,Kwezwa n'urukundo no gufatanya bya kivandimwe
+1712,1113,2,Kugaruka kwa Kristo n'umuzuko w'abapfuye
+1713,1114,1,Indunduro
+1714,1115,1,Kujya mbere no gushikama by'Abatesalonike mu byo kwizera
+1715,1116,1,Kugaruka kwa Yesu kuzabanzirizwa no guhishurwa k'Umugome
+1716,1117,1,"Imbuzi zitari zimwe, n'intashyo"
+1717,1118,1,"Umurimo wagenewe Timoteyo, ari muri Efeso"
+1718,1118,2,Pawulo ashimira Imana imbabazi yamugiriye
+1719,1119,1,Ibyo gusabira abantu bose
+1720,1119,2,Inshingano y'abagore
+1721,1120,1,Inshingano y'abepisikopi n'abadiyakoni
+1722,1121,1,Ubuhakanyi bwo mu minsi y'imperuka
+1723,1121,2,Ibyo gukiranukira gukora umurimo w'Imana
+1724,1122,1,Ibyo guhugurana ubugwaneza
+1725,1122,2,Ibyerekeye abapfakazi
+1726,1122,3,"Abakuru b'Itorero, n'inama Pawulo agira Timoteyo"
+1727,1123,1,Inshingano y'abagaragu
+1728,1123,2,Imbuzi n'inama zitari zimwe
+1729,1124,1,Pawulo ahugurira Timoteyo gushikama mu byo kwizera
+1730,1125,1,Pawulo ahugurira Timoteyo kwitanga amaramaje
+1731,1125,2,Ibyerekeye kwirinda impaka
+1732,1126,1,Ubuhenebere buteye ubwoba bwo mu minsi y'imperuka
+1733,1127,1,"Pawulo avuga iby'iherezo rye, asaba Timoteyo kumusura"
+1734,1128,1,Pawulo ashinga Tito gutunganya iby'Itorero ry'i Kirete
+1735,1129,1,Imibereho ikwiriye aba Kristo
+1736,1129,2,Ubuntu bukiza bugaragarira abantu bose ubwo ari bwo
+1737,1131,1,Pawulo yingingira Filemoni kwakira imbata ye Onesimo
+1738,1132,1,Icyubahiro Yesu arusha abamarayika
+1739,1133,1,Kutirengagiza kwita ku gakiza gakomeye
+1740,1133,2,Icyubahiro Imana yahaye abantu kurusha abamarayika
+1741,1134,1,Uko Kristo aruta Mose; imbuzi zo kutumvira no kutizera
+1742,1135,1,Uburuhukiro Imana yageneye abayizera
+1743,1135,2,Kristo ni umutambyi mukuru uruta abatambyi bakuru bo mu isezerano rya kera
+1744,1137,1,Abaheburayo bihanangirizwa gukuza amajyambere
+1745,1138,1,Ubutambyi bwa Melikisedeki busūra ubwa Kristo butazakuka
+1746,1139,1,Iby'ubutambyi bukuru bwa Kristo n'iby'isezerano rishya
+1747,1140,1,Ibitambo byo mu isezerano rya mbere ntibyari bihagije
+1748,1140,2,Igitambo cya Kristo cyabayeho rimwe gusa
+1749,1141,1,Kwihanangirizwa kumaramaza mu byo kwizera isezerano rishya
+1750,1142,1,Kwizera icyo ari cyo; ibyitegererezo by'abizera nyakuri
+1751,1143,1,Kwihanganira ibitugerageza dukurikije icyitegererezo cya Kristo
+1752,1143,2,"Itandukaniro ry'iby'ubwami bw'Imana bwo mu isezerano rya kera, n'ubwo mu isezerano rishya"
+1753,1144,1,Guhugura kutari kumwe
+1754,1145,1,Ibyerekeye ibigeragezo n'ibishuko
+1755,1145,2,"Ibyo kutihutira kuvuga, n'amahirwe aterwa no kumvira"
+1756,1146,1,Uburyo kurobanura ku butoni bigayitse
+1757,1146,2,Amategeko agomba kumvirwa kumaramaje
+1758,1146,3,Uburyo kwizera kutagira imirimo kuba gupfuye
+1759,1147,1,Uburyo ururimi rutagengwa rwuzuye ubusagwe bwica
+1760,1147,2,Ubwenge buva mu ijuru ubwo ari bwo
+1761,1147,3,Intandaro z'intambara n'amahane yose
+1762,1149,1,Iteka ryaciriwe ku batunzi b'abanyabugugu
+1763,1149,2,Kwihangana no kutarahira no gusenga no kuyobora abayobye
+1764,1150,1,Ishimwe ry'ibyiringiro by'agakiza
+1765,1150,2,Ibyo kwera mu ngeso
+1766,1151,1,Ibuye rizima n'ishyanga ryera
+1767,1151,2,Kugira ingeso nziza mu bapagani no kugandukira abategeka
+1768,1151,3,Inshingano y'abagaragu bakiranuka
+1769,1152,1,Inshingano y'abagabo n'abagore
+1770,1152,2,Urukundo rwa kivandimwe no kwihanganira akarengane
+1771,1154,1,Inshingano y'abakuru b'Itorero n'abasore
+1772,1155,1,Ibyerekeye ingeso za Gikristo
+1773,1156,1,Ibyerekeye abigisha b'ibinyoma
+1774,1157,1,Ibyo kugaruka k'Umwami Yesu
+1775,1158,1,Jambo ahinduka umuntu
+1776,1158,2,Utagendera mu mucyo w'Imana nta sano afitanye na yo
+1777,1158,3,Kwatura ibyaha byacu no kubibabarirwa
+1778,1159,1,Ibyo kwitondera amategeko
+1779,1159,2,Ibya Antikristo
+1780,1160,1,Abana b'Imana n'abana ba Satani abo ari bo
+1781,1161,1,Itandukaniro ry'imyigishirize y'ibinyoma n'iy'ukuri
+1782,1161,2,Imana ni urukundo; gukunda Imana na bagenzi bacu
+1783,1162,1,Ibyo kwizera Yesu n'amaherezo yabyo
+1784,1163,1,Urukundo rwa kivandimwe n'abigisha b'ibinyoma
+1785,1164,1,Ishimwe Yohana ashimira Gayo
+1786,1164,2,Yohana arega Diyotirefe
+1787,1165,1,Imbuzi zo kwirinda abatubaha Imana n'abigisha b'ibinyoma
+1788,1166,1,Interuro
+1789,1166,2,Ubutumwa bw'amatorero arindwi yo muri Asiya
+1790,1166,3,Yesu abonekera Yohana ari i Patimo
+1791,1167,1,Urwandiko rwandikiwe Abefeso
+1792,1167,2,Urwandiko rwandikiwe ab'i Simuruna
+1793,1167,3,Urwandiko rwandikiwe ab'i Perugamo
+1794,1167,4,Urwandiko rwandikiwe ab'i Tuwatira
+1795,1168,1,Urwandiko rwandikiwe ab'i Sarudi
+1796,1168,2,Urwandiko rwandikiwe ab'i Filadelifiya
+1797,1168,3,Urwandiko rwandikiwe ab'i Lawodikiya
+1798,1169,1,Yohana yerekwa intebe y'ubwami
+1799,1170,1,Umwana w'intama n'igitabo cyafatanishijwe ibimenyetso birindwi
+1800,1171,1,Ibimenyetso bya mbere bitandatu bimenwa
+1801,1172,1,Abisirayeli bakiranutse bazarokoka
+1802,1172,2,Yohana yerekwa abahowe Yesu bageze mu ijuru
+1803,1173,1,Ikimenyetso cya karindwi kimenwa
+1804,1173,2,Abamarayika barindwi bavuza impanda ndwi
+1805,1174,1,Impanda ya gatanu ari yo shyano rya mbere
+1806,1174,2,Impanda ya gatandatu cyangwa ishyano rya kabiri
+1807,1175,1,Yohana aconshomera agatabo yavanye mu ntoki za marayika
+1808,1176,1,Iby'abahamya babiri
+1809,1176,2,Impanda ya karindwi
+1810,1177,1,Iby'umugore n'ikiyoka
+1811,1178,1,Haduka inyamaswa ivuye mu nyanja
+1812,1178,2,Haduka indi nyamaswa ivuye mu gitaka
+1813,1179,1,Umwana w'Intama n'abo yacunguye bari ku musozi wa Siyoni
+1814,1179,2,Ubutumwa bw'abamarayika batatu
+1815,1179,3,Imisaruro ibiri
+1816,1180,1,Ibyago birindwi by'imperuka
+1817,1181,1,Ibyago by'imperuka bitera
+1818,1182,1,Ibya maraya ukomeye uhetswe n'inyamaswa
+1819,1183,1,Irimbuka rya Babuloni
+1820,1184,1,Mu ijuru bishimira irimbuka rya Babuloni
+1821,1185,1,"Satani abohwa, abakiranutsi bimana na Yesu imyaka igihumbi"
+1822,1186,1,Iby'ijuru rishya n'isi nshya
