@@ -1,3 +1,6 @@
+import java.io.FileInputStream
+import java.util.Properties
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
@@ -19,13 +22,32 @@ android {
         testInstrumentationRunner = "com.example.biblereader.HiltTestRunner"
     }
 
+    signingConfigs {
+        create("release") {
+            // Load keystore.properties file - uncomment these lines after creating your keystore
+            /*
+            val keystorePropertiesFile = rootProject.file("keystore/keystore.properties")
+            val keystoreProperties = Properties()
+            keystoreProperties.load(FileInputStream(keystorePropertiesFile))
+            
+            storeFile = file(keystoreProperties["storeFile"] as String)
+            storePassword = keystoreProperties["storePassword"] as String
+            keyAlias = keystoreProperties["keyAlias"] as String
+            keyPassword = keystoreProperties["keyPassword"] as String
+            */
+        }
+    }
+
     buildTypes {
         release {
-            isMinifyEnabled = false
+            isMinifyEnabled = true
+            isShrinkResources = true
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
+            // Uncomment this when you've set up your signing config
+            // signingConfig = signingConfigs.getByName("release")
         }
     }
     compileOptions {

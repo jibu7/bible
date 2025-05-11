@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">biblereader</string>
+    <string name="app_name">Bible Reader</string>
+    <string name="app_description">A simple, accessible Bible reader app for daily study</string>
 </resources>
